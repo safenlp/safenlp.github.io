@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   render:
     - "*.qmd"
     - "!publications/_template/"
@@ -7,9 +8,9 @@ project:
 
 
 website:
-  title: "Masiello Group"
-  site-url: "https://faculty.washington.edu/masiello/"
-  repo-url: "https://github.com/MasielloGroup/MasielloGroupWebsite"
+  title: "safenlp.org"
+  site-url: "https://safenlp.org"
+  repo-url: "https://github.com/safenlp/safenlp.github.io"
   favicon: images/favicon.drawio.png
   google-analytics: "UA-177339812-1"
   twitter-card: true

@@ -22,13 +22,16 @@ about:
 :::
 
 
-```{r}
+```{python}
 #| echo: false
 #| label: make map
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-122.30830, lat=47.65297)
+import folium
+from IPython.display import IFrame
+
+m = folium.Map(location=[47.65297, -122.30830], zoom_start=15)
+folium.Marker([47.65297, -122.30830]).add_to(m)
+m.save('map.html')
+IFrame('map.html', width=700, height=500)
 ```
 
 <br>

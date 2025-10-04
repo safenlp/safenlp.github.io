@@ -5,38 +5,30 @@ execute:
 ---
 <img src="../../images/dmref-logo.png" style="float: left; width: 130px; margin-top: 25px;"><h1>DMREF Team Data</h1>
 
-```{r}
-#| label: create gt table 
+```{python}
+#| label: create table
 
-library(gt)
-# library(htmltools)
-# suppressPackageStartupMessages(library(tidyverse))
+import pandas as pd
+from IPython.display import HTML
 
-temperature <- 0:100
-filename <- paste0("au_",temperature,"K.txt")
-link <- paste0('<a href=',filename,'>',filename,"</a>")
+temperature = list(range(0, 101))
+filename = [f"au_{t}K.txt" for t in temperature]
+link = [f'<a href="{f}">{f}</a>' for f in filename]
 
-df <- data.frame(temperature, link)
+df = pd.DataFrame({
+    'Temperature (in ΔT above 298 K)': temperature,
+    'Download File': link
+})
 
-df |> gt() |> 
-  
-  tab_header(
-    title = md("**Temperature dependent <br>refractive index data for gold**")
-  ) |>
-  cols_label(
-    temperature = md("Temperature <br>(in ΔT above 298 K)"),
-    link = "Download File"
-  ) |> 
-  fmt_url(columns = link) |> 
-  opt_row_striping() |> 
-  tab_options( 
-              row.striping.background_color = "#F6F5F3",
-              container.width = px(400)) |> 
-   opt_interactive(use_filters = TRUE,
-                   page_size_default = 15) 
-  
-
-
+html = df.to_html(escape=False, index=False, classes='table table-striped')
+HTML(f"""
+<style>
+.table {{ width: 400px; }}
+.table-striped tbody tr:nth-of-type(odd) {{ background-color: #F6F5F3; }}
+</style>
+<h4><strong>Temperature dependent<br>refractive index data for gold</strong></h4>
+{html}
+""")
 ```
  
 
