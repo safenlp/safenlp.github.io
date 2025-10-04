@@ -1,15 +1,7 @@
 [
   {
-    "listing": "/publications/index.html",
-    "items": [
-      "/publications/2023_083_optical_polarization_analogs/index.html",
-      "/publications/2005_003_Dynamics_of_an_atomi/index.html"
-    ]
-  },
-  {
     "listing": "/events/index.html",
     "items": [
-      "/events/2025-05-ytu/index.html",
       "/events/2025-04-mcbu/index.html",
       "/events/2025-01-halic/index.html",
       "/events/2024-12-marmara/index.html",

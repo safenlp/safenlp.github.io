@@ -4,42 +4,56 @@
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "Optical Polarization Analogs in Inelastic Free Electron Scattering\n            \n            \n                \n                \n                    Marc R. Bourgeois, Austin G. Nixon, Matthieu Chalifour, David J. Masiello \n                \n                \n                \n                    \n                        Science Advances, 9, eadj6038 (2023)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n            \n                \n                    83 \n                \n\n            \n            \n            \n\n                    \n                    journal URL \n                    \n                \n                    \n\n            \n\n        \n    \n    \n    \n    \n    \n        \n            \n\n                \n                    \n                    \n                    \n\n                \n      \n\n            \n        \n        \n            \n            Dynamics of an atomic electron and its electromagnetic field in a cavity\n            \n            \n                \n                \n                    D. Masiello, E. Deumens, Y. Ohrn \n                \n                \n                \n                    \n                        Physical Review A, 71, 32108 (2005)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n            \n                \n                    3 \n                \n\n            \n            \n            \n\n                    \n                    journal URL \n                    \n                \n                    \n\n            \n\n        \n    \n    \n    \n    \n\nNo matching items"
+    "text": "Stay updated by subscribing to our Substack or following us on GitHub."
+  },
+  {
+    "objectID": "publications/index.html#coming-soon",
+    "href": "publications/index.html#coming-soon",
+    "title": "Publications",
+    "section": "",
+    "text": "Stay updated by subscribing to our Substack or following us on GitHub."
   },
   {
     "objectID": "events/index.html",
     "href": "events/index.html",
     "title": "Key Talks & Events",
     "section": "",
-    "text": "Understanding Language Models, Their Constraints and Trust Factors\n\n\nKey talk at Yıldız Technical University\n\n\n\n\n\nMay 2025\n\n\n\n\n\n\n\nUnderstanding Language Models, Their Constraints and Trust Factors\n\n\nKey talk at Manisa Celal Bayar University\n\n\n\n\n\nApr 2025\n\n\n\n\n\n\n\nLanguage Models: Capabilities, Limitations, and Trust\n\n\nKey talk at Haliç University\n\n\n\n\n\nJan 2025\n\n\n\n\n\n\n\nTrustworthiness and Weaknesses of LLMs\n\n\nKey talk at Marmara University\n\n\n\n\n\nDec 2024\n\n\n\n\n\n\n\nSafeNLP & Evaluation of LLMs\n\n\nKey talk at Işık University | IEEEXtreme\n\n\n\n\n\nJul 2024\n\n\n\n\n\n\n\nTrustworthiness and Weaknesses of LLMs\n\n\nKey talk at Istanbul University | 100. Yıl Bilişim Çalıştayı\n\n\n\n\n\nMar 2024\n\n\n\n\n\nNo matching items"
+    "text": "Understanding Language Models, Their Constraints and Trust Factors\n\n\nKey talk at Manisa Celal Bayar University\n\n\n\n\n\nApr 2025\n\n\n\n\n\n\n\nLanguage Models: Capabilities, Limitations, and Trust\n\n\nKey talk at Haliç University\n\n\n\n\n\nJan 2025\n\n\n\n\n\n\n\nTrustworthiness and Weaknesses of LLMs\n\n\nKey talk at Marmara University\n\n\n\n\n\nDec 2024\n\n\n\n\n\n\n\nSafeNLP & Evaluation of LLMs\n\n\nKey talk at Işık University | IEEEXtreme\n\n\n\n\n\nJul 2024\n\n\n\n\n\n\n\nTrustworthiness and Weaknesses of LLMs\n\n\nKey talk at Istanbul University | 100. Yıl Bilişim Çalıştayı\n\n\n\n\n\nMar 2024\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "events/2025-04-mcbu/index.html",
-    "href": "events/2025-04-mcbu/index.html",
-    "title": "Understanding Language Models, Their Constraints and Trust Factors",
+    "objectID": "events/2025-01-halic/index.html",
+    "href": "events/2025-01-halic/index.html",
+    "title": "Language Models: Capabilities, Limitations, and Trust",
     "section": "",
-    "text": "Manisa Celal Bayar University April 2025\nUnderstanding Language Models, Their Constraints and Trust Factors"
+    "text": "Haliç University January 2025\nLanguage Models: Capabilities, Limitations, and Trust"
   },
   {
-    "objectID": "events/2024-12-marmara/index.html",
-    "href": "events/2024-12-marmara/index.html",
-    "title": "Trustworthiness and Weaknesses of LLMs",
+    "objectID": "events/2024-07-isik/index.html",
+    "href": "events/2024-07-isik/index.html",
+    "title": "SafeNLP & Evaluation of LLMs",
     "section": "",
-    "text": "Marmara University December 2024\nTrustworthiness and Weaknesses of LLMs"
+    "text": "Işık University | IEEEXtreme July 2024\nSafeNLP & Evaluation of LLMs"
   },
   {
-    "objectID": "events/2024-03-istanbul/index.html",
-    "href": "events/2024-03-istanbul/index.html",
-    "title": "Trustworthiness and Weaknesses of LLMs",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact SafeNLP",
     "section": "",
-    "text": "Istanbul University | 100. Yıl Bilişim Çalıştayı March 2024\nTrustworthiness and Weaknesses of LLMs"
+    "text": "Our mission is to harness the potential of AI and NLP technologies while mitigating risks and ensuring ethical use. We are committed to building a safer and more reliable future for artificial intelligence and natural language processing.\nExplore our resources and join our community today."
   },
   {
-    "objectID": "codes/index.html",
-    "href": "codes/index.html",
-    "title": "Masiello Group Codes",
+    "objectID": "contact.html#join-our-mission",
+    "href": "contact.html#join-our-mission",
+    "title": "Contact SafeNLP",
     "section": "",
-    "text": "See our Github site for relevant group codes:\n\nT-DDA: Thermal Discrete Dipole Approximation\nThis code calculates the steady-state temperature distribution of nanoparticles on a semi-infinite substrate, embedded in a semi-infinite background medium by solving the discretized steady-state heat diffusion equation.\ne-DDA: Electron Beam Driven Discrete Dipole Approximation\nThis code is a modified version of Draine’s Discrete Dipole Approximation (DDA) code version 7.1. We have modified the code to to allow for an electron beam excitation source. The code computes the electron energy loss spectroscopy (EELS) and angle-resolved cathodoluminescence (CL) for both aloof and internal geometries.\nConfocal Photothermal Image Pipeline\nThis set of files creates confocal photothermal images by calculating the light scattered by metallic nanoparticle assemblies."
+    "text": "Our mission is to harness the potential of AI and NLP technologies while mitigating risks and ensuring ethical use. We are committed to building a safer and more reliable future for artificial intelligence and natural language processing.\nExplore our resources and join our community today."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "📖 Subscribe on Substack \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVulnerable AI + Unaware Users + High Stakes = Crisis\n\n\nThe Critical Landscape of LLMs Adoption - examining the perfect storm of vulnerable AI systems, inexperienced users, and high-stakes applications\n\n\n\n\n\nJun 2025\n\n\nMehmet Ali Özer\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/1-vulnerable-ai-crisis/index.html",
@@ -84,46 +98,39 @@
     "text": "References\n\nOWASP Foundation. (2025). OWASP Top 10 for LLM Applications & Generative AI: Key Updates for 2025. 2025 Security Updates: OWASP Top 10 for LLMs & GenAI\nLasso Security. (2025). LLM Security Predictions: What’s Ahead in 2025. LLM Security Predictions\nPrompt Security. (2024). 8 Real World Incidents Related to AI. https://www.prompt.security/blog/8-real-world-incidents-related-to-ai\nMIT Technology Review. (2024). The biggest AI flops of 2024. https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/\nFederal Trade Commission. (2024). DoNotPay. https://www.ftc.gov/legal-library/browse/cases-proceedings/donotpay\nTwingate. (2024). What happened in the ChatGPT data breach? https://www.twingate.com/blog/tips/chatgpt-data-breach\nReuters. (2024). OpenAI’s internal AI details stolen in 2023 breach, NYT reports. https://www.reuters.com/technology/cybersecurity/openais-internal-ai-details-stolen-2023-breach-nyt-reports-2024-07-05/\nFortune. (2025). Microsoft Copilot zero-click attack raises alarms about AI agent security. https://fortune.com/2025/06/11/microsoft-copilot-vulnerability-ai-agents-echoleak-hacking/\nAdversa AI. (2024). LLM Security TOP Digest: From Incidents and Attacks to Platforms and Protections. https://adversa.ai/blog/llm-security-top-digest-from-incidents-and-attacks-to-platforms-and-protections/\nThe Hacker News. (2024). Over 225,000 Compromised ChatGPT Credentials Up for Sale on Dark Web Markets. https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "codes/index.html",
+    "href": "codes/index.html",
+    "title": "SafeNLP Codes",
     "section": "",
-    "text": "📖 Subscribe on Substack \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVulnerable AI + Unaware Users + High Stakes = Crisis\n\n\nThe Critical Landscape of LLMs Adoption - examining the perfect storm of vulnerable AI systems, inexperienced users, and high-stakes applications\n\n\n\n\n\nJun 2025\n\n\nMehmet Ali Özer\n\n\n\n\n\nNo matching items"
+    "text": "We are developing open-source tools and resources for AI safety and security. Our upcoming releases will include:\n\nLLM Security Testing Frameworks - Practical tools for identifying vulnerabilities in LLM applications\nSafety Assessment Toolkits - Resources for evaluating AI system safety and reliability\nEducational Resources & Blog - Code examples and tutorials for secure AI development\n\nStay tuned for updates. Follow our GitHub organization for the latest releases.\nSubscribe to our Substack to get notified when new tools are available."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact SafeNLP",
+    "objectID": "codes/index.html#coming-soon",
+    "href": "codes/index.html#coming-soon",
+    "title": "SafeNLP Codes",
     "section": "",
-    "text": "Our mission is to harness the potential of AI and NLP technologies while mitigating risks and ensuring ethical use. We are committed to building a safer and more reliable future for artificial intelligence and natural language processing.\nExplore our resources and join our community today."
+    "text": "We are developing open-source tools and resources for AI safety and security. Our upcoming releases will include:\n\nLLM Security Testing Frameworks - Practical tools for identifying vulnerabilities in LLM applications\nSafety Assessment Toolkits - Resources for evaluating AI system safety and reliability\nEducational Resources & Blog - Code examples and tutorials for secure AI development\n\nStay tuned for updates. Follow our GitHub organization for the latest releases.\nSubscribe to our Substack to get notified when new tools are available."
   },
   {
-    "objectID": "contact.html#join-our-mission",
-    "href": "contact.html#join-our-mission",
-    "title": "Contact SafeNLP",
+    "objectID": "events/2024-03-istanbul/index.html",
+    "href": "events/2024-03-istanbul/index.html",
+    "title": "Trustworthiness and Weaknesses of LLMs",
     "section": "",
-    "text": "Our mission is to harness the potential of AI and NLP technologies while mitigating risks and ensuring ethical use. We are committed to building a safer and more reliable future for artificial intelligence and natural language processing.\nExplore our resources and join our community today."
+    "text": "Istanbul University | 100. Yıl Bilişim Çalıştayı March 2024\nTrustworthiness and Weaknesses of LLMs"
   },
   {
-    "objectID": "events/2024-07-isik/index.html",
-    "href": "events/2024-07-isik/index.html",
-    "title": "SafeNLP & Evaluation of LLMs",
+    "objectID": "events/2024-12-marmara/index.html",
+    "href": "events/2024-12-marmara/index.html",
+    "title": "Trustworthiness and Weaknesses of LLMs",
     "section": "",
-    "text": "Işık University | IEEEXtreme July 2024\nSafeNLP & Evaluation of LLMs"
+    "text": "Marmara University December 2024\nTrustworthiness and Weaknesses of LLMs"
   },
   {
-    "objectID": "events/2025-01-halic/index.html",
-    "href": "events/2025-01-halic/index.html",
-    "title": "Language Models: Capabilities, Limitations, and Trust",
-    "section": "",
-    "text": "Haliç University January 2025\nLanguage Models: Capabilities, Limitations, and Trust"
-  },
-  {
-    "objectID": "events/2025-05-ytu/index.html",
-    "href": "events/2025-05-ytu/index.html",
+    "objectID": "events/2025-04-mcbu/index.html",
+    "href": "events/2025-04-mcbu/index.html",
     "title": "Understanding Language Models, Their Constraints and Trust Factors",
     "section": "",
-    "text": "Yıldız Technical University May 2025\nUnderstanding Language Models, Their Constraints and Trust Factors"
+    "text": "Manisa Celal Bayar University April 2025\nUnderstanding Language Models, Their Constraints and Trust Factors"
   },
   {
     "objectID": "index.html",
