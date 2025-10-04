@@ -30,7 +30,7 @@ website:
     title: false
     logo: images/logo.drawio.png
     background: "#F6F5F3"
-    logo-alt: "Masiello Research Group"
+    logo-alt: "SafeNLP.org"
     left:
       - href: people/index.qmd
         text: people
