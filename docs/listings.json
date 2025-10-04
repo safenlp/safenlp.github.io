@@ -7,14 +7,6 @@
     ]
   },
   {
-    "listing": "/people/quillin-steven/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/cherqui-charles/index.html",
-    "items": []
-  },
-  {
     "listing": "/events/index.html",
     "items": [
       "/events/2025-05-ytu/index.html",
@@ -30,17 +22,5 @@
     "items": [
       "/blog/1-vulnerable-ai-crisis/index.html"
     ]
-  },
-  {
-    "listing": "/people/index.html",
-    "items": [
-      "/people/sanchez-michael/index.html",
-      "/people/cherqui-charles/index.html",
-      "/people/quillin-steven/index.html"
-    ]
-  },
-  {
-    "listing": "/people/sanchez-michael/index.html",
-    "items": []
   }
 ]

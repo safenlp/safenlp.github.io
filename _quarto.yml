@@ -4,7 +4,6 @@ project:
   render:
     - "*.qmd"
     - "!publications/_template/"
-    - "!people/_template/"
 
 
 website:
@@ -32,8 +31,6 @@ website:
     background: "#F6F5F3"
     logo-alt: "SafeNLP.org"
     left:
-      - href: people/index.qmd
-        text: people
       - href: blog/index.qmd
         text: blog
       - href: publications/index.qmd
