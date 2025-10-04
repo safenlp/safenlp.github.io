@@ -1,15 +1,13 @@
 ---
-# title: 'Welcome to SafeNLP.org: <span style="color:#757883">light-matter theory at the nanoscale</span>'
-# subtitle: "light-matter theory at the nanoscale"
 page-layout: full
 ---
 <div class="gradient-text">
 
 <div class="welcome-headline">
-Welcome to SafeNLP.org<br>
+SafeNLP: Ensuring Secure and Ethical Language Models<br>
 </div>
 <div class="welcome-subheadline">
-Light-matter theory at the nanoscale
+Safety solutions and research for NLP, LLM, and AI
 </div>
 </div>
 
@@ -21,7 +19,9 @@ Light-matter theory at the nanoscale
 ::: grid
 ::: {.g-col-12 .g-col-lg-4 .welcome-text .sand-background style="padding: 15px;"}
 
-We are a group of theoreticians with diverse backgrounds in chemistry, physics, electrical engineering, materials science, and applied mathematics working at the interface of **electron microscopy** with **nanophotonics, quantum materials, and quantum optics**. Our research provides insight and understanding in the discovery of quantum, optical, magnetic, and thermal materials phenomena spanning the frontiers of high space, momentum, polarization, and energy resolution. Deep connection to experiment influences everything we do.
+We explore safety solutions and research for **NLP, LLM, and AI**, designing approaches for both academic and industry levels with emphasis on **security and ethical principles**. Our work spans bias detection and mitigation, privacy-preserving techniques, adversarial robustness, content moderation, transparency, and comprehensive safety benchmarking for language models.
+
+[GitHub](https://github.com/safenlp) | [LinkedIn](https://www.linkedin.com/company/safenlp)
 :::
 
 :::

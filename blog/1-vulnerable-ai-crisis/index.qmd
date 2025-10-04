@@ -1,0 +1,134 @@
+---
+title: "Vulnerable AI + Unaware Users + High Stakes = Crisis"
+author: "Mehmet Ali Özer"
+date: "2025-06-30"
+description: "The Critical Landscape of LLMs Adoption - examining the perfect storm of vulnerable AI systems, inexperienced users, and high-stakes applications"
+categories: [AI Security, AI Safety, LLMs, Risk Assessment]
+image: "featured.jpg"
+---
+
+::: {.callout-note appearance="simple"}
+📖 **Also available on Substack:** [Read this post on Substack](https://safenlp.substack.com/p/vulnerable-ai-unaware-users-high)
+:::
+
+## The Critical Landscape of LLMs Adoption
+
+We're living through an AI deployment experiment at global scale—and the results are alarming. Large Language Models started as general chatbots, then quickly spread to education platforms, financial services, and even healthcare systems. What began as simple conversational tools has evolved into AI making decisions about loan approvals, medical diagnoses, and legal advice—often deployed by developers who don't fully understand the risks they're introducing. These vulnerable AI systems carry hidden flaws and unpredictable behaviors that even their creators struggle to control. Meanwhile, security researchers discover new vulnerabilities faster than patches can be developed, creating an ever-widening security gap.
+
+At the same time, inexperienced users—from students to executives—are making critical decisions based on AI outputs they're not equipped to evaluate. They trust AI recommendations for medical advice, financial planning, and business strategy without understanding the limitations or potential for manipulation.
+
+These AI systems now handle high-stakes applications that affect real lives, real money, and real safety. Healthcare diagnoses, legal advice, educational assessments, and security decisions increasingly rely on technology that remains fundamentally unpredictable.
+
+**This convergence is creating a perfect storm:**
+
+> **Vulnerable AI + Unaware Users + High Stakes = Crisis**
+
+## Two Sides of the Coin: Safety and Security
+
+This crisis has two faces: **safety risks** where LLMs cause harm simply by doing what they're designed to do—generating biased content, spreading misinformation, or giving dangerous advice—and **security risks** where attackers exploit LLM vulnerabilities to steal data, manipulate outputs, or weaponize these systems against users.
+
+The danger is that we're racing to deploy these AI systems faster than we can secure them. This is the reality of LLM security and safety in 2025.
+
+### From the User's Perspective: LLM Safety is Paramount
+
+Students researching for assignments, patients seeking health information, and everyday users making decisions based on AI recommendations need assurance that these systems won't:
+
+- Mislead them with misinformation
+- Discriminate against them through biased outputs
+- Manipulate their opinions
+- Provide dangerous advice that could harm their health, finances, or well-being
+
+Society demands AI systems that respect privacy, avoid generating harmful content, and don't perpetuate discrimination or spread false information that could destabilize communities or democratic processes.
+
+### From the Business and Technical Perspective: LLM Security is Equally Critical
+
+Developers integrating AI into applications, business owners deploying customer-facing chatbots, executives making strategic AI investments, and stakeholders responsible for organizational risk all need confidence that these systems can't be weaponized against them. They require assurance that attackers won't:
+
+- Exploit prompt injection vulnerabilities to steal sensitive data
+- Manipulate AI outputs to damage reputation
+- Extract proprietary training information
+- Turn their own AI systems into tools for cyber-attacks against their customers and partners
+
+**Both sides of this coin are essential**—users need safe AI that serves their best interests, while organizations need secure AI that can't be misused for malicious purposes. Unfortunately, current LLM deployment often fails on both fronts.
+
+## Playing with Fire at Scale
+
+### LLM Safety Failures: Real-World Harm
+
+**Air Canada's Chatbot Misinformation (February 2024)**
+Air Canada's chatbot provided incorrect bereavement policy information, leading to a court ruling that ordered the airline to pay CA$650.88 in damages after a customer relied on false information about post-travel discount eligibility.
+
+**Google's AI Overviews Dangerous Advice (2024)**
+Google's AI Overviews feature, reaching over 1 billion users by end of 2024, generated dangerous advice including adding "1/8 cup of non-toxic glue" to pizza sauce and recommending adding oil to cooking fires to "help put it out."
+
+**NYC's MyCity Chatbot Illegal Guidance (October 2023)**
+New York City's MyCity chatbot, launched in October 2023, encouraged illegal business practices by falsely claiming employers could take workers' tips and fire employees for sexual harassment complaints.
+
+**DoNotPay's AI Lawyer Fraud ($193,000 FTC Fine, September 2024)**
+The FTC imposed a $193,000 fine on DoNotPay for marketing "substandard and poorly done" legal documents from its "AI lawyer" service between 2021-2023, affecting thousands of subscribers who received inadequate legal advice.
+
+### LLM Security Breaches: Systematic Vulnerabilities
+
+**OpenAI ChatGPT Data Breach (March 2023)**
+A Redis library vulnerability exposed personal data from approximately 101,000 ChatGPT users, including conversation titles, names, email addresses, and partial credit card numbers. A separate OpenAI breach in early 2023, reported by the New York Times in July 2024, saw hackers gain access to internal employee discussion forums about AI technology development.
+
+**Microsoft Copilot Zero-Click Attack (2025)**
+Microsoft's Copilot faced a critical vulnerability that enabled zero-click attacks through malicious emails, allowing attackers to automatically search and exfiltrate sensitive data from Microsoft 365 environments.
+
+**LLM Hijacking Surge (July 2024)**
+Sysdig research documented a **10x increase** in LLM hijacking attacks during July 2024, with stolen cloud credentials used to rack up $46,000-$100,000+ per day in unauthorized AI service usage costs across platforms including Claude, OpenAI, and AWS Bedrock.
+
+**Mass Credential Theft (2024)**
+Security firm KELA identified over **3 million compromised OpenAI accounts** collected in 2024 alone through infostealer malware, with credentials actively sold on dark web marketplaces.
+
+## Bridging the AI Safety Gap: SafeNLP's Accessibility Mission
+
+The current AI safety landscape presents a critical disconnect: while academic research produces sophisticated security frameworks and industry develops advanced technical solutions, these innovations remain largely inaccessible to the broader community that needs them most. Complex research papers, technical documentation, and enterprise-grade tools create barriers that prevent everyday users, small organizations, and non-technical decision-makers from effectively participating in AI safety practices.
+
+**SafeNLP addresses this accessibility gap** by serving as a translator between academic rigor and practical usability. Our mission recognizes that sustainable AI progress requires informed decision-making at every level:
+
+- **Individual users** integrating AI into their workflows need simple guidelines and red flags to recognize
+- **Application developers** building LLM-powered products require practical testing tools and implementation frameworks
+- **Executives** making strategic AI adoption decisions need risk assessment matrices and compliance roadmaps
+
+The sophisticated safety ecosystem currently demands specialized expertise that most organizations lack, creating an environment where only well-resourced entities can meaningfully participate in AI safety. SafeNLP's mission challenges this exclusivity by democratizing access to safety knowledge through:
+
+- Intuitive interfaces
+- Practical toolkits
+- Educational resources that speak to different technical literacy levels
+
+We transform:
+- Academic insights → Actionable guidance
+- Complex security frameworks → User-friendly checklists
+- Theoretical vulnerabilities → Testable scenarios
+
+### Our Philosophy
+
+The philosophy underlying this ecosystem emphasizes that **AI safety is not a zero-sum competition but a shared endeavor** that benefits from open collaboration, diverse perspectives, and inclusive participation. This principle directly informs SafeNLP's approach to making security knowledge accessible across different communities and expertise levels.
+
+---
+
+**Mehmet Ali Özer**
+[maliozer@safenlp.org](mailto:maliozer@safenlp.org)
+
+## References
+
+1. OWASP Foundation. (2025). *OWASP Top 10 for LLM Applications & Generative AI: Key Updates for 2025*. [2025 Security Updates: OWASP Top 10 for LLMs & GenAI](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+
+2. Lasso Security. (2025). *LLM Security Predictions: What's Ahead in 2025*. [LLM Security Predictions](https://www.lasso.security/blog/llm-security-predictions-whats-ahead-in-2025)
+
+3. Prompt Security. (2024). *8 Real World Incidents Related to AI*. https://www.prompt.security/blog/8-real-world-incidents-related-to-ai
+
+4. MIT Technology Review. (2024). *The biggest AI flops of 2024*. https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/
+
+5. Federal Trade Commission. (2024). *DoNotPay*. https://www.ftc.gov/legal-library/browse/cases-proceedings/donotpay
+
+6. Twingate. (2024). *What happened in the ChatGPT data breach?* https://www.twingate.com/blog/tips/chatgpt-data-breach
+
+7. Reuters. (2024). *OpenAI's internal AI details stolen in 2023 breach, NYT reports*. https://www.reuters.com/technology/cybersecurity/openais-internal-ai-details-stolen-2023-breach-nyt-reports-2024-07-05/
+
+8. Fortune. (2025). *Microsoft Copilot zero-click attack raises alarms about AI agent security*. https://fortune.com/2025/06/11/microsoft-copilot-vulnerability-ai-agents-echoleak-hacking/
+
+9. Adversa AI. (2024). *LLM Security TOP Digest: From Incidents and Attacks to Platforms and Protections*. https://adversa.ai/blog/llm-security-top-digest-from-incidents-and-attacks-to-platforms-and-protections/
+
+10. The Hacker News. (2024). *Over 225,000 Compromised ChatGPT Credentials Up for Sale on Dark Web Markets*. https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html

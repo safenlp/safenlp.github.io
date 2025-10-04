@@ -1,0 +1,10 @@
+---
+title: "SafeNLP & Evaluation of LLMs"
+date: '2024-07-01'
+description: "Key talk at Işık University | IEEEXtreme"
+---
+
+**Işık University | IEEEXtreme**
+July 2024
+
+SafeNLP & Evaluation of LLMs

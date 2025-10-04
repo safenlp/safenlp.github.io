@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "research/photothermal_spectroscopy_and_microscopy/index.html",
-    "href": "research/photothermal_spectroscopy_and_microscopy/index.html",
-    "title": "Photothermal Spectroscopy and Microscopy",
-    "section": "",
-    "text": "Measurement of the two distinct components—scattering and absorption—of a single particle’s optical extinction provides fundamentally important and complementary information on how that object processes light: either scattering it back to the far-field or converting it into internal excitation. Yet measurement and separation of each is an extraordinarily difficult experimental task. Far-field optical spectroscopies and microscopies are also limited by diffraction, which further restricts the amount of information attainable. In spite of these constraints, we combine ideas from photothermal heterodyne imaging and plasmon-enhanced super-resolution imaging to correlate the absorption spectra of individual nanoscopic objects with their precise locations below the diffraction limit. Active far-field manipulation and control of the thermal near-field in engineered metamaterials extends this work in new directions that we are currently exploring in collaboration with multiple experimental teams."
-  },
-  {
-    "objectID": "research/photothermal_spectroscopy_and_microscopy/index.html#related-publications",
-    "href": "research/photothermal_spectroscopy_and_microscopy/index.html#related-publications",
-    "title": "Photothermal Spectroscopy and Microscopy",
-    "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research Areas",
-    "section": "",
-    "text": "Fast Electron Nano-Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNanophotonics / Quantum Optics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhotothermal Spectroscopy and Microscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
     "title": "Publications",
@@ -49,62 +28,32 @@
     "text": "Charles’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "safenlp.org",
+    "objectID": "events/index.html",
+    "href": "events/index.html",
+    "title": "Key Talks & Events",
     "section": "",
-    "text": "Welcome to SafeNLP.org\n\n\nLight-matter theory at the nanoscale\n\n\n\n\n\n\n\nWe are a group of theoreticians with diverse backgrounds in chemistry, physics, electrical engineering, materials science, and applied mathematics working at the interface of electron microscopy with nanophotonics, quantum materials, and quantum optics. Our research provides insight and understanding in the discovery of quantum, optical, magnetic, and thermal materials phenomena spanning the frontiers of high space, momentum, polarization, and energy resolution. Deep connection to experiment influences everything we do."
+    "text": "Understanding Language Models, Their Constraints and Trust Factors\n\n\nKey talk at Yıldız Technical University\n\n\n\n\n\nMay 2025\n\n\n\n\n\n\n\nUnderstanding Language Models, Their Constraints and Trust Factors\n\n\nKey talk at Manisa Celal Bayar University\n\n\n\n\n\nApr 2025\n\n\n\n\n\n\n\nLanguage Models: Capabilities, Limitations, and Trust\n\n\nKey talk at Haliç University\n\n\n\n\n\nJan 2025\n\n\n\n\n\n\n\nTrustworthiness and Weaknesses of LLMs\n\n\nKey talk at Marmara University\n\n\n\n\n\nDec 2024\n\n\n\n\n\n\n\nSafeNLP & Evaluation of LLMs\n\n\nKey talk at Işık University | IEEEXtreme\n\n\n\n\n\nJul 2024\n\n\n\n\n\n\n\nTrustworthiness and Weaknesses of LLMs\n\n\nKey talk at Istanbul University | 100. Yıl Bilişim Çalıştayı\n\n\n\n\n\nMar 2024\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "dmref/people/index.html#principal-investigators",
-    "href": "dmref/people/index.html#principal-investigators",
-    "title": "\nThe NSF DMREF Team\n",
-    "section": "Principal Investigators",
-    "text": "Principal Investigators\n\n\n\n  \n   \n\n    \n  \n\n\n\nNo matching items",
-    "crumbs": [
-      "people",
-      "The DMREF Team"
-    ]
-  },
-  {
-    "objectID": "dmref/people/index.html#postdoctoral-fellows",
-    "href": "dmref/people/index.html#postdoctoral-fellows",
-    "title": "\nThe NSF DMREF Team\n",
-    "section": "Postdoctoral Fellows",
-    "text": "Postdoctoral Fellows\n\n\n\n  \n   \n\n    \n  \n\n\n\nNo matching items",
-    "crumbs": [
-      "people",
-      "The DMREF Team"
-    ]
-  },
-  {
-    "objectID": "dmref/people/index.html#graduate-students",
-    "href": "dmref/people/index.html#graduate-students",
-    "title": "\nThe NSF DMREF Team\n",
-    "section": "Graduate Students",
-    "text": "Graduate Students\n\n\n\n  \n   \n\n    \n  \n\n\n\nNo matching items",
-    "crumbs": [
-      "people",
-      "The DMREF Team"
-    ]
-  },
-  {
-    "objectID": "dmref/data/index.html",
-    "href": "dmref/data/index.html",
-    "title": "\nDMREF Team Data\n",
+    "objectID": "events/2025-04-mcbu/index.html",
+    "href": "events/2025-04-mcbu/index.html",
+    "title": "Understanding Language Models, Their Constraints and Trust Factors",
     "section": "",
-    "text": "DMREF Team Data\n\n::: {#cell-create table .cell execution_count=1}\n\n\nTemperature dependentrefractive index data for gold\n\n\n\n\nTemperature (in ΔT above 298 K)\nDownload File\n\n\n\n\n0\nau_0K.txt\n\n\n1\nau_1K.txt\n\n\n2\nau_2K.txt\n\n\n3\nau_3K.txt\n\n\n4\nau_4K.txt\n\n\n5\nau_5K.txt\n\n\n6\nau_6K.txt\n\n\n7\nau_7K.txt\n\n\n8\nau_8K.txt\n\n\n9\nau_9K.txt\n\n\n10\nau_10K.txt\n\n\n11\nau_11K.txt\n\n\n12\nau_12K.txt\n\n\n13\nau_13K.txt\n\n\n14\nau_14K.txt\n\n\n15\nau_15K.txt\n\n\n16\nau_16K.txt\n\n\n17\nau_17K.txt\n\n\n18\nau_18K.txt\n\n\n19\nau_19K.txt\n\n\n20\nau_20K.txt\n\n\n21\nau_21K.txt\n\n\n22\nau_22K.txt\n\n\n23\nau_23K.txt\n\n\n24\nau_24K.txt\n\n\n25\nau_25K.txt\n\n\n26\nau_26K.txt\n\n\n27\nau_27K.txt\n\n\n28\nau_28K.txt\n\n\n29\nau_29K.txt\n\n\n30\nau_30K.txt\n\n\n31\nau_31K.txt\n\n\n32\nau_32K.txt\n\n\n33\nau_33K.txt\n\n\n34\nau_34K.txt\n\n\n35\nau_35K.txt\n\n\n36\nau_36K.txt\n\n\n37\nau_37K.txt\n\n\n38\nau_38K.txt\n\n\n39\nau_39K.txt\n\n\n40\nau_40K.txt\n\n\n41\nau_41K.txt\n\n\n42\nau_42K.txt\n\n\n43\nau_43K.txt\n\n\n44\nau_44K.txt\n\n\n45\nau_45K.txt\n\n\n46\nau_46K.txt\n\n\n47\nau_47K.txt\n\n\n48\nau_48K.txt\n\n\n49\nau_49K.txt\n\n\n50\nau_50K.txt\n\n\n51\nau_51K.txt\n\n\n52\nau_52K.txt\n\n\n53\nau_53K.txt\n\n\n54\nau_54K.txt\n\n\n55\nau_55K.txt\n\n\n56\nau_56K.txt\n\n\n57\nau_57K.txt\n\n\n58\nau_58K.txt\n\n\n59\nau_59K.txt\n\n\n60\nau_60K.txt\n\n\n61\nau_61K.txt\n\n\n62\nau_62K.txt\n\n\n63\nau_63K.txt\n\n\n64\nau_64K.txt\n\n\n65\nau_65K.txt\n\n\n66\nau_66K.txt\n\n\n67\nau_67K.txt\n\n\n68\nau_68K.txt\n\n\n69\nau_69K.txt\n\n\n70\nau_70K.txt\n\n\n71\nau_71K.txt\n\n\n72\nau_72K.txt\n\n\n73\nau_73K.txt\n\n\n74\nau_74K.txt\n\n\n75\nau_75K.txt\n\n\n76\nau_76K.txt\n\n\n77\nau_77K.txt\n\n\n78\nau_78K.txt\n\n\n79\nau_79K.txt\n\n\n80\nau_80K.txt\n\n\n81\nau_81K.txt\n\n\n82\nau_82K.txt\n\n\n83\nau_83K.txt\n\n\n84\nau_84K.txt\n\n\n85\nau_85K.txt\n\n\n86\nau_86K.txt\n\n\n87\nau_87K.txt\n\n\n88\nau_88K.txt\n\n\n89\nau_89K.txt\n\n\n90\nau_90K.txt\n\n\n91\nau_91K.txt\n\n\n92\nau_92K.txt\n\n\n93\nau_93K.txt\n\n\n94\nau_94K.txt\n\n\n95\nau_95K.txt\n\n\n96\nau_96K.txt\n\n\n97\nau_97K.txt\n\n\n98\nau_98K.txt\n\n\n99\nau_99K.txt\n\n\n100\nau_100K.txt\n\n\n\n\n:::",
-    "crumbs": [
-      "people",
-      "Team Data"
-    ]
+    "text": "Manisa Celal Bayar University April 2025\nUnderstanding Language Models, Their Constraints and Trust Factors"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "David J. Masiello",
+    "objectID": "events/2024-12-marmara/index.html",
+    "href": "events/2024-12-marmara/index.html",
+    "title": "Trustworthiness and Weaknesses of LLMs",
     "section": "",
-    "text": "masiello@uw.edu\n\n\n   206-543-5579\n\n\n   Department of Chemistry, CHB 304F, Seattle, WA 98195-1700\n\n\n    \n    \n  \n\n\n::: {#cell-make map .cell execution_count=1}\n\n\n        \n        \n\n:::"
+    "text": "Marmara University December 2024\nTrustworthiness and Weaknesses of LLMs"
+  },
+  {
+    "objectID": "events/2024-03-istanbul/index.html",
+    "href": "events/2024-03-istanbul/index.html",
+    "title": "Trustworthiness and Weaknesses of LLMs",
+    "section": "",
+    "text": "Istanbul University | 100. Yıl Bilişim Çalıştayı March 2024\nTrustworthiness and Weaknesses of LLMs"
   },
   {
     "objectID": "codes/index.html",
@@ -114,51 +63,95 @@
     "text": "See our Github site for relevant group codes:\n\nT-DDA: Thermal Discrete Dipole Approximation\nThis code calculates the steady-state temperature distribution of nanoparticles on a semi-infinite substrate, embedded in a semi-infinite background medium by solving the discretized steady-state heat diffusion equation.\ne-DDA: Electron Beam Driven Discrete Dipole Approximation\nThis code is a modified version of Draine’s Discrete Dipole Approximation (DDA) code version 7.1. We have modified the code to to allow for an electron beam excitation source. The code computes the electron energy loss spectroscopy (EELS) and angle-resolved cathodoluminescence (CL) for both aloof and internal geometries.\nConfocal Photothermal Image Pipeline\nThis set of files creates confocal photothermal images by calculating the light scattered by metallic nanoparticle assemblies."
   },
   {
-    "objectID": "dmref/codes/index.html",
-    "href": "dmref/codes/index.html",
-    "title": "\nComputer Codes\n",
+    "objectID": "blog/1-vulnerable-ai-crisis/index.html",
+    "href": "blog/1-vulnerable-ai-crisis/index.html",
+    "title": "Vulnerable AI + Unaware Users + High Stakes = Crisis",
     "section": "",
-    "text": "Computer Codes\n\n\nRelevant GitHub repositories:\n\n\nT-DDA: Thermal Discrete Dipole Approximation\nThis code calculates the steady-state temperature distribution of nanoparticles on a semi-infinite substrate, embedded in a semi-infinite background medium by solving the discretized steady-state heat diffusion equation.\nConfocal Photothermal Image Pipeline\nThis set of files creates confocal photothermal images by calculating the light scattered by metallic nanoparticle assemblies.",
-    "crumbs": [
-      "people",
-      "Computer Codes"
-    ]
+    "text": "📖 Also available on Substack: Read this post on Substack"
   },
   {
-    "objectID": "dmref/index.html",
-    "href": "dmref/index.html",
-    "title": "\nNSF DMREF\n",
-    "section": "",
-    "text": "NSF DMREF\n\n\nA National Science Foundation-funded collaboration between\n\n\n\n\n\n\nWelcome\n\nThermal energy, or heat, flows naturally from hot to cold, making it difficult to create localized thermal “hot spots” even when heat is applied to a single spot. Touching a hot pan’s lid provides a simple and all too familiar example of such thermal conduction. As a material’s size is reduced to 10-100s of nanometers, or about 1,000 times smaller than a human hair, depositing and maintaining thermal energy within a small region of space becomes even more challenging. Yet the ability to control heat flow and thus temperature at nanoscopic dimensions has important implications for applications ranging from data storage and local chemical reaction control to photothermal therapies for disease treatment and pain management through ion channel stimulation.\nWith support from the National Science Foundation Designing Materials to Revolutionize and Engineer our Future (DMREF) Program, Professor David J. Masiello from the University of Washington, Professor Katherine A. Willets from Temple University, and Professor Stephan Link from Rice University are developing methods to theoretically design and experimentally realize a new class of materials capable of controllably directing temperature increases to nanoscale regions of space using light. Beyond impacting a wide variety of applications, the project is also facilitating the interdisciplinary training of students and postdoctoral researchers through student exchange between the three research groups.",
-    "crumbs": [
-      "people",
-      "Welcome to DMREF"
-    ]
+    "objectID": "blog/1-vulnerable-ai-crisis/index.html#the-critical-landscape-of-llms-adoption",
+    "href": "blog/1-vulnerable-ai-crisis/index.html#the-critical-landscape-of-llms-adoption",
+    "title": "Vulnerable AI + Unaware Users + High Stakes = Crisis",
+    "section": "The Critical Landscape of LLMs Adoption",
+    "text": "The Critical Landscape of LLMs Adoption\nWe’re living through an AI deployment experiment at global scale—and the results are alarming. Large Language Models started as general chatbots, then quickly spread to education platforms, financial services, and even healthcare systems. What began as simple conversational tools has evolved into AI making decisions about loan approvals, medical diagnoses, and legal advice—often deployed by developers who don’t fully understand the risks they’re introducing. These vulnerable AI systems carry hidden flaws and unpredictable behaviors that even their creators struggle to control. Meanwhile, security researchers discover new vulnerabilities faster than patches can be developed, creating an ever-widening security gap.\nAt the same time, inexperienced users—from students to executives—are making critical decisions based on AI outputs they’re not equipped to evaluate. They trust AI recommendations for medical advice, financial planning, and business strategy without understanding the limitations or potential for manipulation.\nThese AI systems now handle high-stakes applications that affect real lives, real money, and real safety. Healthcare diagnoses, legal advice, educational assessments, and security decisions increasingly rely on technology that remains fundamentally unpredictable.\nThis convergence is creating a perfect storm:\n\nVulnerable AI + Unaware Users + High Stakes = Crisis"
   },
   {
-    "objectID": "dmref/publications/index.html",
-    "href": "dmref/publications/index.html",
-    "title": "\nNSF DMREF Publications\n",
-    "section": "",
-    "text": "NSF DMREF Publications\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items",
-    "crumbs": [
-      "people",
-      "DMREF-Related Publications"
-    ]
+    "objectID": "blog/1-vulnerable-ai-crisis/index.html#two-sides-of-the-coin-safety-and-security",
+    "href": "blog/1-vulnerable-ai-crisis/index.html#two-sides-of-the-coin-safety-and-security",
+    "title": "Vulnerable AI + Unaware Users + High Stakes = Crisis",
+    "section": "Two Sides of the Coin: Safety and Security",
+    "text": "Two Sides of the Coin: Safety and Security\nThis crisis has two faces: safety risks where LLMs cause harm simply by doing what they’re designed to do—generating biased content, spreading misinformation, or giving dangerous advice—and security risks where attackers exploit LLM vulnerabilities to steal data, manipulate outputs, or weaponize these systems against users.\nThe danger is that we’re racing to deploy these AI systems faster than we can secure them. This is the reality of LLM security and safety in 2025.\n\nFrom the User’s Perspective: LLM Safety is Paramount\nStudents researching for assignments, patients seeking health information, and everyday users making decisions based on AI recommendations need assurance that these systems won’t:\n\nMislead them with misinformation\nDiscriminate against them through biased outputs\nManipulate their opinions\nProvide dangerous advice that could harm their health, finances, or well-being\n\nSociety demands AI systems that respect privacy, avoid generating harmful content, and don’t perpetuate discrimination or spread false information that could destabilize communities or democratic processes.\n\n\nFrom the Business and Technical Perspective: LLM Security is Equally Critical\nDevelopers integrating AI into applications, business owners deploying customer-facing chatbots, executives making strategic AI investments, and stakeholders responsible for organizational risk all need confidence that these systems can’t be weaponized against them. They require assurance that attackers won’t:\n\nExploit prompt injection vulnerabilities to steal sensitive data\nManipulate AI outputs to damage reputation\nExtract proprietary training information\nTurn their own AI systems into tools for cyber-attacks against their customers and partners\n\nBoth sides of this coin are essential—users need safe AI that serves their best interests, while organizations need secure AI that can’t be misused for malicious purposes. Unfortunately, current LLM deployment often fails on both fronts."
   },
   {
-    "objectID": "news/2019-01-01-archive-pre.../index.html",
-    "href": "news/2019-01-01-archive-pre.../index.html",
-    "title": "Archive - pre-2019 news",
-    "section": "",
-    "text": "May 2018: Nick, Steve, and Charles’ paper on tunable spectral ordering of magnetic plasmon resonances in noble metal nanoclusters was accepted in ACS Photonics ! Congratulations All!!\nMay 2018: Harrison, Kevin, and Jake’s paper on mislocalization in plasmon-enhanced super-resolution fluorescence microscopy was accepted in ACS Photonics ! Congratulations!!\nMarch 2018: David and Stephan Link’s thematic issue on Plasmonics in Chemistry was published online in Chemical Reviews!\nFebruary 2018: Niket’s work on plasmonic Landau damping in active environments in published in PRB as a Rapid Communication. Congrats Niket, Nick, and Charles!\nJanuary 2018: Collaborative work with Prof. Jon Camden’s group at Notre Dame on nanocube plasmon mode mixing in finite substrates is accepted for publication at JPC Letters!\nFall 2017: Collaborative work with Prof. Randy Goldsmith’s group at UW Madison on controlling photonic-plasmonic hybridization in optical microresonator cavities via thermal annealing is accepted for publication in Nano Letters. Congratulations All!\nFall 2017: Collaborative work with Prof. Naomi Ginsberg’s group at UC Berkeley on non-invasive cathodoluminescence imaging is accepted for publication in ACS Nano!\nSpring 2017: The Masiello group receives several grants from NSF CTMC, NSF EPM, NSF DMREF, and DOE BES. Congratulations! And, thank you NSF and DOE!\nApril 2017: Niket Thakkar receives the prestigious UW Graduate Medal awarded each year to a single UW Ph.D., DMA, Au.D., DNP, DPT, or Ed.D. candidate who displays an exemplary commitment to both the University and its larger community. Congratulations Niket!\nApril 2017: Kevin Smith receives an Outstanding First-Year TA Award from the UW Physics Department. Congratulations Kevin!\nMarch 2017: Niket Thakkar successfully defends his Ph.D. dissertation in Applied Mathematics and joins the Institute for Disease Modeling as a machine learning research scientist. Congratulations Niket!\nMarch 2017: Nick Montoni receives a Husky 100 Award! Congratulations Nick!!\nJanuary 2017: Zhaoxia’s paper on dynamic optical switching of polymer/plasmonic nanoparticle hybrids is accepted for publication in Journal of Physical Chemistry B\nNovember 2016: Niket, Steven, and Charles’ paper on single-particle absorption spectroscopy via photothermal contrast in an optical microresonator cavity is published online in Nature Photonics! Press: C&E News , Nature Photonics\nSeptember 2016: We’re batting 3/3…Our collaborative work with the Camden group (Notre Dame) and Rack group (Tennessee) on magnetic plasmon hybridization and all-magnetic Fano interference is accepted for publication in Nano Letters!\nSeptember 2016: Niket, Steven, and Charles’ collaborative paper with the Goldsmith group at UW, Madison on single-particle absorption spectroscopy via photothermal contrast in an optical microresonator cavity is accepted for publication in Nature Photonics\nSeptember 2016: Nick Montoni’s paper on imaging energy transfer between noble-metal and catalytic-metal nanoparticles with STEM/EELS is accepted for publication in JPC Letters\nApril 2016: Steven, Charles, and Nick’s paper on imaging plasmon hybridization in metal nanoparticle aggregates with STEM/EELS is accepted for publication in JPC C!\nFebruary 2016: David Masiello receives a Presidential Early Career Award for Scientists and Engineers (PECASE). Press: White House , NSF , UW\nFebruary 2016: David Masiello is promoted to Associate Professor with tenure, effective Autumn Quarter 2016\nDecember 2015: Charles, Nick, and Nikets’ paper on mapping the evolution from gold to silver LSPRs in alloyed nanoparticles via STEM/EELS is accepted for publication in ACS Photonics\nAugust/September 2015: David Masiello is invited to speak at the University of Pittsburgh and Notre Dame\nJune 2015: Charles and Nick’s paper on mapping the transition from LSPRs to SPPs in truncated nanospheres via STEM/EELS is accepted for publication in JPC Letters\nJune 2015: UCSB physics major Claire West joins the group as a summer NSF REU student. Welcome Claire!\nApril 2015: Charles and Nick’s paper on the spatial mapping of energy transfer in nanocubes via STEM/EELS is accepted for publication in Nano Letters!\nApril 2015: David Masiello gives an invited talk at the University of Pennsylvania\nMarch 2015: The Masiello group is heading to ACS Denver where Charles, Nick, and Niket will all be speaking in our PHYS Division Symposium on Probing Nano-Plasmonic Phenomena at the Single Molecule, Single Electron, & Single Photon Level\nJanuary/February 2015: David Masiello gives invited talks at Stanford, UC Davis, Northwestern, and the University of Chicago\nDecember 2014: Niket and Charles publish their paper on quantum beats produced by entangled localized surface plasmons in metal nanoparticle aggregates in ACS Photonics!\nDecember 2014: Nicholas Bigelow successfully defends his Ph.D. dissertation on electron energy-loss spectroscopy theory and simulation in nanoparticle plasmonics. Well done Dr. Bigelow! Congratulations!!\nDecember 2014: First year graduate student Nicholas Montoni from UNC Chapel Hill joins the group. Welcome Nick!\nDecember 2014: Undergraduate researcher Jeremy Li receives a Mary Gates Research Scholarship to fund his proposed research in nanoscale temperature manipulation via Fano interferometry!\nNovember 2014: David Masiello is invited to speak at the University of Florida and at CREOL/University of Central Florida\nSeptember 2014: Charles Cherqui, Nicholas Bigelow, Alex Vaschillo, and Harrison Goldwyn publish our group’s first paper in ACS Photonics. The paper provides a first-principles taxonomy of the electric and magnetic plasmon resonances of cyclic metal oligomer metamaterials .\nSeptember 2014: David Masiello is invited to speak at Rice University and the University of Texas at Austin later this month\nJuly 2014: Baby Cara Masiello is born and is getting lots of love from her big brother Peter!\nJune 2014: Senior undergraduate researcher Alex Vaschillo receives an NSF graduate research fellowship for his proposal on the electron energy-loss spectroscopy of plasmonic nanomaterials.\n\nAlex is the fourth Masiello group student since we began in Fall 2010 to be awarded the NSF graduate research fellowship in plasmonics theory! Congratulations, Alex!!\n\nApril 2014: Collaborative research with the Camden group at the University of Tennessee on the STEM/EELS-based Fano interferometry of the nanocube plasmon is accepted for publication in JPC C\nApril 2014: Physics graduate student Chris Baldwin is awarded the prestigious NSF graduate research fellowship for his proposal on the theory of plasmon decay.\nApril 2014: Senior undergraduate researcher Alex Vaschillo receives an Honorable Mention for his NSF graduate research fellowship proposal. Congrats Alex!\nMarch 2014: Chris Baldwin publishes his first paper entitled ” Thermal Signatures of Plasmonic Fano Interferences: Toward the Achievement of Nanolocalized Temperature Manipulation ” in the Journal of Physical Chemistry Letters. Congratulations, Chris!\nMarch 2014: David Masiello receives an adjunct faculty appointment in Physics at UW\nFebruary 2014: David Masiello receives an adjunct faculty appointment in Applied Mathematics at UW\nJanuary 2014: David Masiello gives an invited talk on Spectro-Nanoscopy at the Pacific Spectroscopy Conference in Asilomar, CA\nDecember 2013: Collaborative research with Prof. Gamelin’s group on surface-plasmon resonances in charge-tunable semiconducting quantum dots is accepted for publication in ACS Nano\nDecember 2013: Chemistry graduate student Steven Quillin joins the group. Welcome Steve!\nNovember 2013: Dr. Charles Cherqui from UNM Physics/LANL CNLS joins the group as a Postdoctoral Fellow. Welcome Charles!\nNovember 2013: Nicholas Bigelow receives a S. P. Pavlou and D. E. Strayer Endowed Fellowship in Chemistry. Way to go, Nick!\nOctober 2013: David Masiello is invited to speak at the First International Workshop on Electron Beam Spectroscopy for Nanophotonics at the FOM Institute, AMOLF in Amsterdam, The Netherlands in June 2014\nOctober 2013: Alex Vaschillo wins a prestigious fellowship from the Washington Research Foundation. Congrats Alex!\nSeptember 2013: David Masiello gives an invited talk at LANL’s CNLS\nAugust 2013: David Masiello is invited to UC Irvine and University of Victoria for pchem seminars\nJuly 2013: Physics graduate student Christopher Baldwin joins the group. Welcome Chris!\nJune 2013: Harrison Goldwyn, a UCSB physics major, joins the group as a summer NSF REU student. Welcome!\nJune 2013: Alex Vaschillo receives a Mortar Board Alumni/Tolo Foundation Arnold & Carolyn Bryant Peterson Scholarship. Congratulations Alex!!\nMay 2013: David Masiello is invited to speak at the 61st Pacific Conference on Spectroscopy and Dynamics in Asilomar, CA in January 2014\nMay 2013: Undergraduate researcher Alex Vaschillo is named an Astronaut Scholarship Foundation Fellow and is awarded a $10 K scholarship. Also Alex has received a NSF-funded REU position at Harvard University during Summer 2013. Congratulations Alex!\nMay 2013: Jonathan, Ryan, and Bo’s paper on the quantum image effect is accepted for publication in the Journal of Physical Chemistry C\nApril 2013: Nick and Alex’s paper on unraveling the signatures of Fano interferences in electron energy-loss spectroscopy (EELS) and cathodoluminescence (CL) is accepted in ACS Nano\nApril 2013: David Masiello receives an outstanding junior faculty award from the COMP Division of the ACS\nMarch 2013: Niket Thakkar wins an NSF Graduate Research Fellowship! Congratulations Niket!!\nMarch 2013: David Masiello is invited to speak at the 34th Progress in Electromagnetic Research Symposium in Stockholm, Sweden in August 2013\nJanuary 2013: Alex Vaschillo receives a Rex. J. and Ruth C. Robinson Scholarship in Chemistry and is invited to present his EELS research at the National Collegiate Research Conference at Harvard University, Cambridge MA. Congrats Alex!\nDecember 2012: Jonathan Litz receives a Leon J. Slutsky Endowed Fellowship in Chemistry\nOctober 2012: David Masiello is awarded a CAREER award from the National Science Foundation\nOctober 2012: David Masiello is invited to speak at the 43rd Winter Colloquium on the Physics of Quantum Electronics\nSeptember 2012: We are freely distributing the electron-driven discrete dipole approximation (e-DDA) under the GNU General Public License\nAugust 2012: Collaborative research with the groups of Prof. Jon Camden at UTK, Prof. Beth Guiton at UK, and Dr. Stephen Pennycook at ORNL is accepted for publication in JPC Letters\nJuly 2012: Nick and Alex’s paper on using electron energy-loss spectroscopy (EELS) to probe SERS hot spots is accepted in ACS Nano\nJune 2012: NNIN REU student, Bo Lee from Harvey Mudd College, joins the group this Summer. Welcome Bo!\nApril 2012: Applied Math graduate student Niket Thakkar joins the group\nApril 2012: David Masiello is invited to be a plenary speaker at MMM 2012 in Singapore this October\nMarch 2012: Jonathan Litz has been invited to attend the 2012 Lindau Nobel Laureate Meeting in Lindau, Germany. Congratulations, Jonathan!\nFebruary 2012: David Masiello is invited to speak at the Multiscale Modeling, Analysis, and Computation of Nano-Optics Workshop at Michigan State University in East Lansing, MI in April 2012\nFebruary 2012: Jonathan Litz has received a travel award from the UW Graduate School Fund for Excellence and Innovation (GSFEI) to attend the Spring 2012 ACS meeting in San Diego, CA. Congrats Jonathan!\nFebruary 2012: David Masiello has joined the faculty of the Center for Nanotechnology at the University of Washington\nFebruary 2012: David Masiello is invited to speak at “Quantum Effects in Condensed-Phase Systems” at the Telluride Science Research Center in Telluride, CO in July 2013\nJanuary 2012: UW undergrad, Alex Vaschillo joins the group. Welcome Alex!\nJanuary 2012: Collaborative research with the group of Prof. Katherine Willets at UT Austin is accepted for publication in ACS Nano\nJanuary 2012: David Masiello is invited to speak at the University of Oregon, Department of Chemistry\nJanuary 2012: Applied Math graduate student Tim Sooter joins the group.\nDecember 2011: David Masiello is invited to speak at “Nanomaterials: Theory and Computation” at the Telluride Science Research Center in Telluride, CO in July 2012\nDecember 2011: David Masiello is invited to speak at Chalmers University of Technology in Göteborg, Sweden in January 2012\nNovember 2011: David Masiello is invited to speak in “Multiscale Modeling of Optically Responsive Materials” at the October 2012 Multiscale Materials Modeling (MMM) conference in Singapore\nSeptember 2011: The Masiello group welcomes its newest junior theorist - Peter William Masiello!\nSeptember 2011: David Masiello is invited to speak in “Theoretical Approaches in Molecular Spectroscopy” at the 95th Canadian Chemistry Conference in May 2012\nJune 2011: David Masiello is invited to speak at UW’s Center for Nanotechnology 15th Anniversary Workshop in September 2011\nJune 2011: Jonathan Litz publishes the group’s first paper in the Journal of Physical Chemistry Letters\nJune 2011: UW undergrads Jeff Schueler and Brad Krajina join the group, and Harvey Mudd undergrad Ryan Brewster joins the group for the Summer. Welcome all!\nJune 2011: Steven Spackman receives dual B.S. degrees in Chemistry and Biochemistry from UW. Congratulations Steven!\nApril 2011: Congratulations to Jonathan Litz for receiving the NSF Graduate Research Fellowship !\nJanuary 2011: Masiello group receives funding from the UW Royalty Research Fund\nDecember 2010: David Masiello is invited to speak in “Advances in SERS and Molecular Plasmonics“ at the Fall 2011 ACS meeting in Denver, CO\nNovember 2010: David Masiello is invited to speak in “Reduced Density Matrices in Quantum Chemistry and Physics” at the Fall 2011 ACS meeting in Denver, CO.\nNovember 2010: Chemistry grad students Nick Bigelow from UW and Ross Grimshaw from the University of Vermont join the group\nSeptember 2010: UW undergrad Steven Spackman joins the group\nAugust 2010: Collaborative work between the Masiello group and the experimental groups of Professors David Ginger, Mehmet Sarikaya, and Alex Jen is published (and gets the inside front cover!) in Advanced Functional Materials\nJuly 2010: Chemistry grad student Jonathan Litz joins the group from Harvey Mudd College"
+    "objectID": "blog/1-vulnerable-ai-crisis/index.html#playing-with-fire-at-scale",
+    "href": "blog/1-vulnerable-ai-crisis/index.html#playing-with-fire-at-scale",
+    "title": "Vulnerable AI + Unaware Users + High Stakes = Crisis",
+    "section": "Playing with Fire at Scale",
+    "text": "Playing with Fire at Scale\n\nLLM Safety Failures: Real-World Harm\nAir Canada’s Chatbot Misinformation (February 2024) Air Canada’s chatbot provided incorrect bereavement policy information, leading to a court ruling that ordered the airline to pay CA$650.88 in damages after a customer relied on false information about post-travel discount eligibility.\nGoogle’s AI Overviews Dangerous Advice (2024) Google’s AI Overviews feature, reaching over 1 billion users by end of 2024, generated dangerous advice including adding “1/8 cup of non-toxic glue” to pizza sauce and recommending adding oil to cooking fires to “help put it out.”\nNYC’s MyCity Chatbot Illegal Guidance (October 2023) New York City’s MyCity chatbot, launched in October 2023, encouraged illegal business practices by falsely claiming employers could take workers’ tips and fire employees for sexual harassment complaints.\nDoNotPay’s AI Lawyer Fraud ($193,000 FTC Fine, September 2024) The FTC imposed a $193,000 fine on DoNotPay for marketing “substandard and poorly done” legal documents from its “AI lawyer” service between 2021-2023, affecting thousands of subscribers who received inadequate legal advice.\n\n\nLLM Security Breaches: Systematic Vulnerabilities\nOpenAI ChatGPT Data Breach (March 2023) A Redis library vulnerability exposed personal data from approximately 101,000 ChatGPT users, including conversation titles, names, email addresses, and partial credit card numbers. A separate OpenAI breach in early 2023, reported by the New York Times in July 2024, saw hackers gain access to internal employee discussion forums about AI technology development.\nMicrosoft Copilot Zero-Click Attack (2025) Microsoft’s Copilot faced a critical vulnerability that enabled zero-click attacks through malicious emails, allowing attackers to automatically search and exfiltrate sensitive data from Microsoft 365 environments.\nLLM Hijacking Surge (July 2024) Sysdig research documented a 10x increase in LLM hijacking attacks during July 2024, with stolen cloud credentials used to rack up $46,000-$100,000+ per day in unauthorized AI service usage costs across platforms including Claude, OpenAI, and AWS Bedrock.\nMass Credential Theft (2024) Security firm KELA identified over 3 million compromised OpenAI accounts collected in 2024 alone through infostealer malware, with credentials actively sold on dark web marketplaces."
   },
   {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "News",
+    "objectID": "blog/1-vulnerable-ai-crisis/index.html#bridging-the-ai-safety-gap-safenlps-accessibility-mission",
+    "href": "blog/1-vulnerable-ai-crisis/index.html#bridging-the-ai-safety-gap-safenlps-accessibility-mission",
+    "title": "Vulnerable AI + Unaware Users + High Stakes = Crisis",
+    "section": "Bridging the AI Safety Gap: SafeNLP’s Accessibility Mission",
+    "text": "Bridging the AI Safety Gap: SafeNLP’s Accessibility Mission\nThe current AI safety landscape presents a critical disconnect: while academic research produces sophisticated security frameworks and industry develops advanced technical solutions, these innovations remain largely inaccessible to the broader community that needs them most. Complex research papers, technical documentation, and enterprise-grade tools create barriers that prevent everyday users, small organizations, and non-technical decision-makers from effectively participating in AI safety practices.\nSafeNLP addresses this accessibility gap by serving as a translator between academic rigor and practical usability. Our mission recognizes that sustainable AI progress requires informed decision-making at every level:\n\nIndividual users integrating AI into their workflows need simple guidelines and red flags to recognize\nApplication developers building LLM-powered products require practical testing tools and implementation frameworks\nExecutives making strategic AI adoption decisions need risk assessment matrices and compliance roadmaps\n\nThe sophisticated safety ecosystem currently demands specialized expertise that most organizations lack, creating an environment where only well-resourced entities can meaningfully participate in AI safety. SafeNLP’s mission challenges this exclusivity by democratizing access to safety knowledge through:\n\nIntuitive interfaces\nPractical toolkits\nEducational resources that speak to different technical literacy levels\n\nWe transform: - Academic insights → Actionable guidance - Complex security frameworks → User-friendly checklists - Theoretical vulnerabilities → Testable scenarios\n\nOur Philosophy\nThe philosophy underlying this ecosystem emphasizes that AI safety is not a zero-sum competition but a shared endeavor that benefits from open collaboration, diverse perspectives, and inclusive participation. This principle directly informs SafeNLP’s approach to making security knowledge accessible across different communities and expertise levels.\n\nMehmet Ali Özer maliozer@safenlp.org"
+  },
+  {
+    "objectID": "blog/1-vulnerable-ai-crisis/index.html#references",
+    "href": "blog/1-vulnerable-ai-crisis/index.html#references",
+    "title": "Vulnerable AI + Unaware Users + High Stakes = Crisis",
+    "section": "References",
+    "text": "References\n\nOWASP Foundation. (2025). OWASP Top 10 for LLM Applications & Generative AI: Key Updates for 2025. 2025 Security Updates: OWASP Top 10 for LLMs & GenAI\nLasso Security. (2025). LLM Security Predictions: What’s Ahead in 2025. LLM Security Predictions\nPrompt Security. (2024). 8 Real World Incidents Related to AI. https://www.prompt.security/blog/8-real-world-incidents-related-to-ai\nMIT Technology Review. (2024). The biggest AI flops of 2024. https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/\nFederal Trade Commission. (2024). DoNotPay. https://www.ftc.gov/legal-library/browse/cases-proceedings/donotpay\nTwingate. (2024). What happened in the ChatGPT data breach? https://www.twingate.com/blog/tips/chatgpt-data-breach\nReuters. (2024). OpenAI’s internal AI details stolen in 2023 breach, NYT reports. https://www.reuters.com/technology/cybersecurity/openais-internal-ai-details-stolen-2023-breach-nyt-reports-2024-07-05/\nFortune. (2025). Microsoft Copilot zero-click attack raises alarms about AI agent security. https://fortune.com/2025/06/11/microsoft-copilot-vulnerability-ai-agents-echoleak-hacking/\nAdversa AI. (2024). LLM Security TOP Digest: From Incidents and Attacks to Platforms and Protections. https://adversa.ai/blog/llm-security-top-digest-from-incidents-and-attacks-to-platforms-and-protections/\nThe Hacker News. (2024). Over 225,000 Compromised ChatGPT Credentials Up for Sale on Dark Web Markets. https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
     "section": "",
-    "text": "David’s paper on symmetry-broken many-body excited states of the double-well Bose-Einstein condensate was accepted for publication in Journal of Physical Chemstry A as part of the William P. Reinhardt Festschrift\n\n\n\n\n\n\n\n\nFeb 2019\n\n\n\n\n\n\n\nArchive - pre-2019 news\n\n\n\n\n\n\n\n\nJan 2019\n\n\n\n\n\nNo matching items"
+    "text": "📖 Subscribe on Substack \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVulnerable AI + Unaware Users + High Stakes = Crisis\n\n\nThe Critical Landscape of LLMs Adoption - examining the perfect storm of vulnerable AI systems, inexperienced users, and high-stakes applications\n\n\n\n\n\nJun 2025\n\n\nMehmet Ali Özer\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact SafeNLP",
+    "section": "",
+    "text": "Our mission is to harness the potential of AI and NLP technologies while mitigating risks and ensuring ethical use. We are committed to building a safer and more reliable future for artificial intelligence and natural language processing.\nExplore our resources and join our community today."
+  },
+  {
+    "objectID": "contact.html#join-our-mission",
+    "href": "contact.html#join-our-mission",
+    "title": "Contact SafeNLP",
+    "section": "",
+    "text": "Our mission is to harness the potential of AI and NLP technologies while mitigating risks and ensuring ethical use. We are committed to building a safer and more reliable future for artificial intelligence and natural language processing.\nExplore our resources and join our community today."
+  },
+  {
+    "objectID": "events/2024-07-isik/index.html",
+    "href": "events/2024-07-isik/index.html",
+    "title": "SafeNLP & Evaluation of LLMs",
+    "section": "",
+    "text": "Işık University | IEEEXtreme July 2024\nSafeNLP & Evaluation of LLMs"
+  },
+  {
+    "objectID": "events/2025-01-halic/index.html",
+    "href": "events/2025-01-halic/index.html",
+    "title": "Language Models: Capabilities, Limitations, and Trust",
+    "section": "",
+    "text": "Haliç University January 2025\nLanguage Models: Capabilities, Limitations, and Trust"
+  },
+  {
+    "objectID": "events/2025-05-ytu/index.html",
+    "href": "events/2025-05-ytu/index.html",
+    "title": "Understanding Language Models, Their Constraints and Trust Factors",
+    "section": "",
+    "text": "Yıldız Technical University May 2025\nUnderstanding Language Models, Their Constraints and Trust Factors"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "safenlp.org",
+    "section": "",
+    "text": "SafeNLP: Ensuring Secure and Ethical Language Models\n\n\nSafety solutions and research for NLP, LLM, and AI\n\n\n\n\n\n\n\nWe explore safety solutions and research for NLP, LLM, and AI, designing approaches for both academic and industry levels with emphasis on security and ethical principles. Our work spans bias detection and mitigation, privacy-preserving techniques, adversarial robustness, content moderation, transparency, and comprehensive safety benchmarking for language models.\nGitHub | LinkedIn"
   },
   {
     "objectID": "people/index.html",
@@ -222,33 +215,5 @@
     "title": "Michael Sanchez",
     "section": "Michael’s Group Publications",
     "text": "Michael’s Group Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "research/fast_electron_nano-spectroscopy/index.html",
-    "href": "research/fast_electron_nano-spectroscopy/index.html",
-    "title": "Fast Electron Nano-Spectroscopy",
-    "section": "",
-    "text": "Pushing the boundaries of fast electron spectroscopy, energy-monochromated and aberration-corrected scanning transmission electron microscopes have opened the far infrared to nanometer scale spatial mapping. Together with experiment, we leverage these advances to resolve open fundamental questions in nano-spectroscopy, perform entirely new materials characterization techniques at the single-particle level, and discover advanced materials endowed with unprecedented functionalities."
-  },
-  {
-    "objectID": "research/fast_electron_nano-spectroscopy/index.html#related-publications",
-    "href": "research/fast_electron_nano-spectroscopy/index.html#related-publications",
-    "title": "Fast Electron Nano-Spectroscopy",
-    "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n\n                \n                    \n                    \n                    \n\n                \n      \n\n            \n        \n        \n            \n            Optical Polarization Analogs in Inelastic Free Electron Scattering\n            \n            \n                \n                \n                    Marc R. Bourgeois, Austin G. Nixon, Matthieu Chalifour, David J. Masiello \n                \n                \n                \n                    \n                        Science Advances, 9, eadj6038 (2023)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n\n            \n            \n\n                    \n                    journal URL \n                    \n                \n                    \n  \n              \n\n        \n    \n    \n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "research/nanophotonics-quantum_optics/index.html",
-    "href": "research/nanophotonics-quantum_optics/index.html",
-    "title": "Nanophotonics / Quantum Optics",
-    "section": "",
-    "text": "Coupling between light and matter is extraordinarily weak. Optical resonator cavities provide an opportunity to coax repeated light-matter interactions, thereby enhancing coupling far beyond that of free space. In such settings, coupling can be so strong that it is no longer possible to disentangle the original optical and material degrees of freedom, resulting in non-equilibrium quantum optical states endowed with properties beyond those of their components. Together with experiment we develop theoretical models and simulation tools necessary to explicitly connect nanophotonic cavity + qubit systems with quantum many-body processes and phenomena. Our work not only enables the simulation of quantum many-body physics in nanophotonic devices but also provides opportunities to protect fragile quantum correlations against decoherence."
-  },
-  {
-    "objectID": "research/nanophotonics-quantum_optics/index.html#related-publications",
-    "href": "research/nanophotonics-quantum_optics/index.html#related-publications",
-    "title": "Nanophotonics / Quantum Optics",
-    "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\nNo matching items"
   }
 ]

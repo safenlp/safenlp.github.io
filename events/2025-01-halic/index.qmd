@@ -1,0 +1,10 @@
+---
+title: "Language Models: Capabilities, Limitations, and Trust"
+date: '2025-01-01'
+description: "Key talk at Haliç University"
+---
+
+**Haliç University**
+January 2025
+
+Language Models: Capabilities, Limitations, and Trust

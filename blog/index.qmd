@@ -1,0 +1,24 @@
+---
+title: Blog
+listing:
+  contents: "**/*.qmd"
+  type: default
+  sort: "date desc"
+  fields: [date, title, author, description]
+  categories: true
+page-layout: full
+---
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://safenlp.substack.com" class="btn btn-primary" target="_blank" style="padding: 0.75rem 1.5rem; font-size: 1.1rem;">
+    📖 Subscribe on Substack
+  </a>
+</div>
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('images/chalkboard_sm.jpg'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+
+<!-- </style> -->

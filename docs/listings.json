@@ -1,17 +1,5 @@
 [
   {
-    "listing": "/research/photothermal_spectroscopy_and_microscopy/index.html",
-    "items": []
-  },
-  {
-    "listing": "/research/index.html",
-    "items": [
-      "/research/fast_electron_nano-spectroscopy/index.html",
-      "/research/nanophotonics-quantum_optics/index.html",
-      "/research/photothermal_spectroscopy_and_microscopy/index.html"
-    ]
-  },
-  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/2023_083_optical_polarization_analogs/index.html",
@@ -27,18 +15,20 @@
     "items": []
   },
   {
-    "listing": "/dmref/people/index.html",
-    "items": []
-  },
-  {
-    "listing": "/dmref/publications/index.html",
-    "items": []
-  },
-  {
-    "listing": "/news/index.html",
+    "listing": "/events/index.html",
     "items": [
-      "/news/2019-02-16-david-s-pap.../index.html",
-      "/news/2019-01-01-archive-pre.../index.html"
+      "/events/2025-05-ytu/index.html",
+      "/events/2025-04-mcbu/index.html",
+      "/events/2025-01-halic/index.html",
+      "/events/2024-12-marmara/index.html",
+      "/events/2024-07-isik/index.html",
+      "/events/2024-03-istanbul/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/1-vulnerable-ai-crisis/index.html"
     ]
   },
   {
@@ -51,16 +41,6 @@
   },
   {
     "listing": "/people/sanchez-michael/index.html",
-    "items": []
-  },
-  {
-    "listing": "/research/fast_electron_nano-spectroscopy/index.html",
-    "items": [
-      "/publications/2023_083_optical_polarization_analogs/index.html"
-    ]
-  },
-  {
-    "listing": "/research/nanophotonics-quantum_optics/index.html",
     "items": []
   }
 ]

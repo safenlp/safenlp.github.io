@@ -1,0 +1,10 @@
+---
+title: "Trustworthiness and Weaknesses of LLMs"
+date: '2024-12-01'
+description: "Key talk at Marmara University"
+---
+
+**Marmara University**
+December 2024
+
+Trustworthiness and Weaknesses of LLMs

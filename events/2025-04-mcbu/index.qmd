@@ -1,0 +1,10 @@
+---
+title: "Understanding Language Models, Their Constraints and Trust Factors"
+date: '2025-04-01'
+description: "Key talk at Manisa Celal Bayar University"
+---
+
+**Manisa Celal Bayar University**
+April 2025
+
+Understanding Language Models, Their Constraints and Trust Factors

@@ -1,0 +1,10 @@
+---
+title: "Trustworthiness and Weaknesses of LLMs"
+date: '2024-03-01'
+description: "Key talk at Istanbul University | 100. Yıl Bilişim Çalıştayı"
+---
+
+**Istanbul University | 100. Yıl Bilişim Çalıştayı**
+March 2024
+
+Trustworthiness and Weaknesses of LLMs

@@ -1,37 +1,17 @@
 ---
-title: "David J. Masiello"
-about: 
-  id: contact
-  template: solana
-  image-shape: round
-  image: people/masiello-david/avatar.png
-# page-layout: full
+title: "Contact SafeNLP"
 ---
 
+## Join Our Mission
 
+Our mission is to harness the potential of AI and NLP technologies while mitigating risks and ensuring ethical use. We are committed to building a safer and more reliable future for artificial intelligence and natural language processing.
+
+Explore our resources and join our community today.
 
 :::{#contact}
 
-#### {{< fa envelope >}} &nbsp; masiello@uw.edu
-
-#### {{< fa phone >}} &nbsp; 206-543-5579
-
-#### {{< fa map-location-dot >}} &nbsp; Department of Chemistry, CHB 304F, Seattle, WA 98195-1700
-
+#### {{< fa envelope >}} &nbsp; contact@safenlp.org
 
 :::
-
-
-```{python}
-#| echo: false
-#| label: make map
-import folium
-from IPython.display import IFrame
-
-m = folium.Map(location=[47.65297, -122.30830], zoom_start=15)
-folium.Marker([47.65297, -122.30830]).add_to(m)
-m.save('map.html')
-IFrame('map.html', width=700, height=500)
-```
 
 <br>
