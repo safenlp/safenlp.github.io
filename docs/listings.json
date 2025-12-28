@@ -12,6 +12,7 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/2-llms-under-siege/index.html",
       "/blog/1-vulnerable-ai-crisis/index.html"
     ]
   }
