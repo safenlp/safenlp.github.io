@@ -4,7 +4,7 @@ page-layout: full
 <div class="gradient-text">
 
 <div class="welcome-headline">
-SafeNLP: Ensuring Secure and Ethical Language Models<br>
+SafeNLP: Trustworthy AI Through Rigorous Safety<br>
 </div>
 <div class="welcome-subheadline">
 Safety solutions and research for NLP, LLM, and AI
