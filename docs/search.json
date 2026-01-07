@@ -18,21 +18,35 @@
     "href": "events/index.html",
     "title": "Key Talks & Events",
     "section": "",
-    "text": "Understanding Language Models, Their Constraints and Trust Factors\n\n\nKey talk at Manisa Celal Bayar University\n\n\n\n\n\nApr 2025\n\n\n\n\n\n\n\nLanguage Models: Capabilities, Limitations, and Trust\n\n\nKey talk at Haliç University\n\n\n\n\n\nJan 2025\n\n\n\n\n\n\n\nTrustworthiness and Weaknesses of LLMs\n\n\nKey talk at Marmara University\n\n\n\n\n\nDec 2024\n\n\n\n\n\n\n\nSafeNLP & Evaluation of LLMs\n\n\nKey talk at Işık University | IEEEXtreme\n\n\n\n\n\nJul 2024\n\n\n\n\n\n\n\nTrustworthiness and Weaknesses of LLMs\n\n\nKey talk at Istanbul University | 100. Yıl Bilişim Çalıştayı\n\n\n\n\n\nMar 2024\n\n\n\n\n\nNo matching items"
+    "text": "Yapay Zeka ile Ana Dilimde “Türkçe” Konuşuyorum, Güvende Miyim? - Yıldız Teknik University\n\n\n\n\n\n\n\n\nDec 2025\n\n\n\n\n\n\n\nİstinye University\n\n\n\n\n\n\n\n\nNov 2025\n\n\n\n\n\n\n\nYeditepe University\n\n\n\n\n\n\n\n\nNov 2025\n\n\n\n\n\n\n\nUnderstanding Language Models, Their Constraints and Trust Factors\n\n\nKey talk at Manisa Celal Bayar University\n\n\n\n\n\nApr 2025\n\n\n\n\n\n\n\nLanguage Models: Capabilities, Limitations, and Trust\n\n\nKey talk at Haliç University\n\n\n\n\n\nJan 2025\n\n\n\n\n\n\n\nTrustworthiness and Weaknesses of LLMs\n\n\nKey talk at Marmara University\n\n\n\n\n\nDec 2024\n\n\n\n\n\n\n\nSafeNLP & Evaluation of LLMs\n\n\nKey talk at Işık University | IEEEXtreme\n\n\n\n\n\nJul 2024\n\n\n\n\n\n\n\nTrustworthiness and Weaknesses of LLMs\n\n\nKey talk at Istanbul University | 100. Yıl Bilişim Çalıştayı\n\n\n\n\n\nMar 2024\n\n\n\n\n\n\n\nİstanbul Teknik University: Text Analysis and NLP Methods Workshop\n\n\n\n\n\n\n\n\nNov 2022\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "events/2025-01-halic/index.html",
-    "href": "events/2025-01-halic/index.html",
-    "title": "Language Models: Capabilities, Limitations, and Trust",
+    "objectID": "events/2025-11-yeditepe/index.html",
+    "href": "events/2025-11-yeditepe/index.html",
+    "title": "Yeditepe University",
     "section": "",
-    "text": "Haliç University January 2025\nLanguage Models: Capabilities, Limitations, and Trust"
+    "text": "TBD\nNovember 2025"
   },
   {
-    "objectID": "events/2024-07-isik/index.html",
-    "href": "events/2024-07-isik/index.html",
-    "title": "SafeNLP & Evaluation of LLMs",
+    "objectID": "events/2025-04-mcbu/index.html",
+    "href": "events/2025-04-mcbu/index.html",
+    "title": "Understanding Language Models, Their Constraints and Trust Factors",
     "section": "",
-    "text": "Işık University | IEEEXtreme July 2024\nSafeNLP & Evaluation of LLMs"
+    "text": "Manisa Celal Bayar University April 2025\nUnderstanding Language Models, Their Constraints and Trust Factors"
+  },
+  {
+    "objectID": "events/2024-12-marmara/index.html",
+    "href": "events/2024-12-marmara/index.html",
+    "title": "Trustworthiness and Weaknesses of LLMs",
+    "section": "",
+    "text": "Marmara University December 2024\nTrustworthiness and Weaknesses of LLMs"
+  },
+  {
+    "objectID": "events/2024-03-istanbul/index.html",
+    "href": "events/2024-03-istanbul/index.html",
+    "title": "Trustworthiness and Weaknesses of LLMs",
+    "section": "",
+    "text": "Istanbul University | 100. Yıl Bilişim Çalıştayı March 2024\nTrustworthiness and Weaknesses of LLMs"
   },
   {
     "objectID": "contact.html",
@@ -147,25 +161,39 @@
     "text": "We are developing open-source tools and resources for AI safety and security. Our upcoming releases will include:\n\nLLM Security Testing Frameworks - Practical tools for identifying vulnerabilities in LLM applications\nSafety Assessment Toolkits - Resources for evaluating AI system safety and reliability\nEducational Resources & Blog - Code examples and tutorials for secure AI development\n\nStay tuned for updates. Follow our GitHub organization for the latest releases.\nSubscribe to our Substack to get notified when new tools are available."
   },
   {
-    "objectID": "events/2024-03-istanbul/index.html",
-    "href": "events/2024-03-istanbul/index.html",
-    "title": "Trustworthiness and Weaknesses of LLMs",
+    "objectID": "events/2022-11-istanbulteknik/index.html",
+    "href": "events/2022-11-istanbulteknik/index.html",
+    "title": "İstanbul Teknik University: Text Analysis and NLP Methods Workshop",
     "section": "",
-    "text": "Istanbul University | 100. Yıl Bilişim Çalıştayı March 2024\nTrustworthiness and Weaknesses of LLMs"
+    "text": "Text Analysis and NLP Methods Workshop\nİstanbul Teknik University\nNovember 2022\nWorkshop focused on advanced text analysis and natural language processing methods."
   },
   {
-    "objectID": "events/2024-12-marmara/index.html",
-    "href": "events/2024-12-marmara/index.html",
-    "title": "Trustworthiness and Weaknesses of LLMs",
+    "objectID": "events/2024-07-isik/index.html",
+    "href": "events/2024-07-isik/index.html",
+    "title": "SafeNLP & Evaluation of LLMs",
     "section": "",
-    "text": "Marmara University December 2024\nTrustworthiness and Weaknesses of LLMs"
+    "text": "Işık University | IEEEXtreme July 2024\nSafeNLP & Evaluation of LLMs"
   },
   {
-    "objectID": "events/2025-04-mcbu/index.html",
-    "href": "events/2025-04-mcbu/index.html",
-    "title": "Understanding Language Models, Their Constraints and Trust Factors",
+    "objectID": "events/2025-01-halic/index.html",
+    "href": "events/2025-01-halic/index.html",
+    "title": "Language Models: Capabilities, Limitations, and Trust",
     "section": "",
-    "text": "Manisa Celal Bayar University April 2025\nUnderstanding Language Models, Their Constraints and Trust Factors"
+    "text": "Haliç University January 2025\nLanguage Models: Capabilities, Limitations, and Trust"
+  },
+  {
+    "objectID": "events/2025-11-istinye/index.html",
+    "href": "events/2025-11-istinye/index.html",
+    "title": "İstinye University",
+    "section": "",
+    "text": "TBD\nNovember 2025"
+  },
+  {
+    "objectID": "events/2025-12-yildizteknik/index.html",
+    "href": "events/2025-12-yildizteknik/index.html",
+    "title": "Yapay Zeka ile Ana Dilimde “Türkçe” Konuşuyorum, Güvende Miyim? - Yıldız Teknik University",
+    "section": "",
+    "text": "TBD\n30 December 2025"
   },
   {
     "objectID": "index.html",

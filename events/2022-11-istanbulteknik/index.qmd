@@ -1,0 +1,12 @@
+---
+date: '2022-11-15'
+title: "İstanbul Teknik University: Text Analysis and NLP Methods Workshop"
+---
+
+# Text Analysis and NLP Methods Workshop
+
+İstanbul Teknik University
+
+November 2022
+
+Workshop focused on advanced text analysis and natural language processing methods.

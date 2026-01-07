@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 // Colors
-$primary: #4b2e83; 
+$primary: #007bc2; 
 $sand_old: #f0eeeb;
 $sand: #F6F5F3;
 $gold: #e8e3d3;
@@ -29,18 +29,18 @@ h1, .h1 {
 div.gradient-text {
   background: linear-gradient(
     45deg,
-    #e8e3d3,
-    #4b2e83,
-    #4b2e83,
-    #757883,
-    #202020,
-    #007bc2,
-    #4b2e83,
-    #007bc2,
-    #757883,
-    #757883,
-    #202020,
-    #e8e3d3
+     #e8e3d3,
+     #007bc2,
+     #007bc2,
+     #5a8fdc,
+     #202020,
+     #0091ea,
+     #5a8fdc,
+     #0091ea,
+     #5a8fdc,
+     #5a8fdc,
+     #202020,
+     #e8e3d3
 
   );
   background-size: 800%;
@@ -100,14 +100,15 @@ div.gradient-text {
 /*-- navbar --*/
 
 .navbar {
-  padding-top: 0;
-  padding-bottom: 0;
-  font-size: 1em;
-  // font-family: 'Arsenal', sans-serif;
-  //font-family: 'Bebas Neue', sans-serif;
-   font-family: 'Economica', sans-serif;
-   text-transform: uppercase;
-  }
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 1.25em;
+  font-family: 'Economica', sans-serif;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  height: 80px;
+}
 
 /*quarto-header {
   /*border-bottom: 1px solid black; */
@@ -116,10 +117,12 @@ div.gradient-text {
 
 .navbar-brand.navbar-brand-logo {
   display: flex;
+  align-items: center;
+  height: 100%;
   padding-top: 0;
   padding-bottom: 0;
-  margin-right: 0;
-  margin-left: 1.5em;
+  margin-right: 1em;
+  margin-left: 1em;
 }
 
 @media (max-width: 767px) {
@@ -135,28 +138,33 @@ div.gradient-text {
   }
   }
 
+.navbar-nav {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  margin-left: 2em;
+}
+
 .nav-item {
-    margin-top: 5rem; 
-  }
-
-@media (max-width: 991px) {
-  .nav-item {
-    margin-top: 0px;
-    margin-right: 0rem;
-}
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 2em;
 }
 
 .navbar-logo {
-  max-height: 150px;
-  width: 150px;
-  align-items: baseline;
+  max-height: 60px;
+  width: 60px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-self: center;
 }
 
 @media (max-width: 991px) {
 .navbar-logo {
-  max-height: 100px;
+  max-height: 40px;
   width: auto;
-  align-items: baseline;
+  align-items: center;
 }
 }
 
