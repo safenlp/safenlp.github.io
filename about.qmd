@@ -1,0 +1,191 @@
+---
+title: "About SafeNLP"
+page-layout: full
+---
+
+
+## Our Mission
+
+Our mission is to harness the transformative potential of AI and NLP technologies while actively mitigating their risks, ensuring they are developed and used in an ethical, transparent, and accountable manner.
+
+We are committed to building a safer and more reliable future for artificial intelligence, a future where powerful language models can be trusted by the people and organizations that rely on them.
+
+---
+
+## Our Approach:
+
+**Effective Altruism** is a philosophical and social movement that aims to benefit others as much as possible through evidence and careful reasoning. Its core goal is to allocate limited resources (time, expertise, and funding) in the ways that create the highest positive impact.
+
+At SafeNLP, we apply this principle directly to AI: we focus our work where it matters most, tackling the problems in artificial intelligence that pose the greatest risks and solving them in ways that contribute to a safer, more responsible development of the technology.
+
+<blockquote class="safenlp-quote">
+<p>We ask not just <strong>"can we build this?"</strong> but <strong>"where does our effort do the most good?"</strong> We let that answer guide our research priorities, collaborations, and community.</p>
+</blockquote>
+
+<style>
+.safenlp-quote {
+  border-left: 4px solid #007bc2;
+  margin: 1.5rem 0;
+  padding: 0.75rem 1.5rem;
+  background: #F6F5F3;
+  border-radius: 0 6px 6px 0;
+}
+.safenlp-quote p {
+  font-style: italic;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+}
+</style>
+
+---
+
+## Our Community in Action
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox@3.3.0/dist/css/glightbox.min.css" />
+
+<style>
+a.photo-hero {
+  display: block;
+  width: 100%;
+  margin-bottom: 6px;
+  overflow: hidden;
+  border-radius: 6px;
+  position: relative;
+}
+
+a.photo-hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 123, 194, 0);
+  transition: background 0.25s ease;
+  border-radius: 6px;
+}
+
+a.photo-hero:hover::after {
+  background: rgba(0, 123, 194, 0.18);
+}
+
+a.photo-hero img {
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  transition: transform 0.35s ease;
+}
+
+a.photo-hero:hover img {
+  transform: scale(1.02);
+}
+
+.photo-collage {
+  columns: 3;
+  column-gap: 6px;
+  margin-top: 1.5rem;
+}
+
+.photo-collage a {
+  display: block;
+  width: 100%;
+  margin-bottom: 6px;
+  break-inside: avoid;
+  overflow: hidden;
+  border-radius: 6px;
+  position: relative;
+}
+
+.photo-collage a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 123, 194, 0);
+  transition: background 0.25s ease;
+  border-radius: 6px;
+}
+
+.photo-collage a:hover::after {
+  background: rgba(0, 123, 194, 0.18);
+}
+
+.photo-collage img {
+  width: 100%;
+  display: block;
+  transition: transform 0.35s ease;
+}
+
+.photo-collage a:hover img {
+  transform: scale(1.04);
+}
+
+@media (max-width: 768px) {
+  .photo-collage { columns: 2; }
+}
+
+@media (max-width: 480px) {
+  .photo-collage { columns: 1; }
+}
+</style>
+
+<a href="images/gallery/about/IMG_20260201_180121.jpg" class="glightbox photo-hero" data-gallery="about" data-description="SafeNLP community">
+  <img src="images/gallery/about/IMG_20260201_180121.jpg" alt="SafeNLP community" loading="lazy" />
+</a>
+
+<div class="photo-collage">
+
+  <a href="images/gallery/about/IMG_8346.jpg" class="glightbox" data-gallery="about" data-description="SafeNLP community">
+    <img src="images/gallery/about/IMG_8346.jpg" alt="SafeNLP community" loading="lazy" />
+  </a>
+
+  <a href="images/gallery/about/IMG_8493.jpg" class="glightbox" data-gallery="about" data-description="SafeNLP community">
+    <img src="images/gallery/about/IMG_8493.jpg" alt="SafeNLP community" loading="lazy" />
+  </a>
+
+  <a href="images/gallery/about/IMG_8353.jpg" class="glightbox" data-gallery="about" data-description="SafeNLP community">
+    <img src="images/gallery/about/IMG_8353.jpg" alt="SafeNLP community" loading="lazy" />
+  </a>
+
+  <a href="images/gallery/about/IMG_20260201_171352.jpg" class="glightbox" data-gallery="about" data-description="SafeNLP community">
+    <img src="images/gallery/about/IMG_20260201_171352.jpg" alt="SafeNLP community" loading="lazy" />
+  </a>
+
+  <a href="images/gallery/about/IMG_8511.jpg" class="glightbox" data-gallery="about" data-description="SafeNLP community">
+    <img src="images/gallery/about/IMG_8511.jpg" alt="SafeNLP community" loading="lazy" />
+  </a>
+
+  <a href="images/gallery/about/IMG_7086.jpg" class="glightbox" data-gallery="about" data-description="SafeNLP community">
+    <img src="images/gallery/about/IMG_7086.jpg" alt="SafeNLP community" loading="lazy" />
+  </a>
+
+  <a href="images/gallery/about/IMG_0325.jpg" class="glightbox" data-gallery="about" data-description="SafeNLP community">
+    <img src="images/gallery/about/IMG_0325.jpg" alt="SafeNLP community" loading="lazy" />
+  </a>
+
+  <a href="images/gallery/about/IMG_7420.jpg" class="glightbox" data-gallery="about" data-description="SafeNLP community">
+    <img src="images/gallery/about/IMG_7420.jpg" alt="SafeNLP community" loading="lazy" />
+  </a>
+
+  <a href="images/gallery/about/IMG_0326.jpg" class="glightbox" data-gallery="about" data-description="SafeNLP community">
+    <img src="images/gallery/about/IMG_0326.jpg" alt="SafeNLP community" loading="lazy" />
+  </a>
+
+  <a href="images/gallery/about/IMG_8314.jpg" class="glightbox" data-gallery="about" data-description="SafeNLP community">
+    <img src="images/gallery/about/IMG_8314.jpg" alt="SafeNLP community" loading="lazy" />
+  </a>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/glightbox@3.3.0/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    GLightbox({
+      selector: '.glightbox',
+      touchNavigation: true,
+      loop: true,
+      autoplayVideos: false,
+      zoomable: true,
+    });
+  });
+</script>

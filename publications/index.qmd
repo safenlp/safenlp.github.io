@@ -3,9 +3,70 @@ title: "Publications"
 page-layout: full
 ---
 
-## Coming Soon
+<style>
+.pub-entry {
+  border-left: 3px solid #007bc2;
+  padding: 1rem 1.25rem;
+  margin-bottom: 2rem;
+  background: #F6F5F3;
+  border-radius: 0 6px 6px 0;
+}
+.pub-venue {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #757883;
+  margin-bottom: 0.35rem;
+  font-family: 'Economica', sans-serif;
+}
+.pub-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 0.6rem;
+  color: #222;
+}
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+.pub-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid #007bc2;
+  border-radius: 4px;
+  color: #007bc2;
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+}
+.pub-link:hover {
+  background: #007bc2;
+  color: white;
+  text-decoration: none;
+}
+</style>
 
-Stay updated by subscribing to our [Substack](https://safenlp.substack.com) or following us on [GitHub](https://github.com/safenlp).
+<div class="pub-entry">
+<div class="pub-venue">HCI-E 2025 · 4th Eurasian Conference on Human-Computer Interaction</div>
+<div class="pub-title">TRedDil — Revealing Systematic Language Bias in LLM Safety</div>
+<div class="pub-links">
+<a class="pub-link" href="https://github.com/safenlp/TRedDil" target="_blank"><i class="bi bi-github"></i> GitHub</a>
+<a class="pub-link" href="https://github.com/safenlp/TRedDil/blob/main/assets/TRedDil__Revealing_Systematic_Language_Bias_in_LLM_Safety.pdf" target="_blank"><i class="bi bi-file-earmark-pdf"></i> Paper</a>
+<a class="pub-link" href="https://github.com/safenlp/TRedDil/blob/main/assets/HCI-E2025-treddil-5Dec-Presentation.pdf" target="_blank"><i class="bi bi-easel2"></i> Slides</a>
+<a class="pub-link" href="https://hci-e.com/images/HCI-E2025%20BoA.pdf" target="_blank"><i class="bi bi-book"></i> Book of Abstracts</a>
+</div>
+</div>
 
-
-
+<div class="pub-entry">
+<div class="pub-venue">5th International Informatics and Software Engineering Conference (IISEC)</div>
+<div class="pub-title">Evaluating LLM Performance on CWE Identification and CVSS Estimation</div>
+<div class="pub-links">
+<a class="pub-link" href="https://github.com/safenlp/iisec2026-llm-vulnerability-eval" target="_blank"><i class="bi bi-github"></i> GitHub</a>
+<a class="pub-link" href="https://ieeexplore.ieee.org/document/11418496" target="_blank"><i class="bi bi-journal-bookmark-fill"></i> IEEE</a>
+</div>
+</div>

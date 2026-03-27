@@ -2,15 +2,13 @@
 title: "Contact SafeNLP"
 ---
 
-## Join Our Mission
-
-Our mission is to harness the potential of AI and NLP technologies while mitigating risks and ensuring ethical use. We are committed to building a safer and more reliable future for artificial intelligence and natural language processing.
-
-Explore our resources and join our community today.
+Have a question, collaboration idea, or just want to say hello? Don't hesitate to reach out — we'd love to connect.
 
 :::{#contact}
 
 #### {{< fa envelope >}} &nbsp; contact@safenlp.org
+
+#### {{< fa brands linkedin >}} &nbsp; [linkedin.com/company/safenlp](https://www.linkedin.com/company/safenlp)
 
 :::
 

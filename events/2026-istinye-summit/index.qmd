@@ -1,0 +1,7 @@
+---
+date: '2026-02-01'
+title: "İstinye University Solution Summit"
+description: "TBA"
+---
+
+TBA

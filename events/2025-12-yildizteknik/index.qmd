@@ -3,6 +3,6 @@ date: '2025-12-30'
 title: 'Yapay Zeka ile Ana Dilimde "Türkçe" Konuşuyorum, Güvende Miyim? - Yıldız Teknik University'
 ---
 
-TBD
+TBA
 
 30 December 2025
