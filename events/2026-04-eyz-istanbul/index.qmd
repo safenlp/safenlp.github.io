@@ -6,4 +6,10 @@ description: "Workshop at EYZ İstanbul"
 
 4 April 2026
 
-TBA
+### Workshop Content
+
+Mehmet Ali Özer'in "Yapay Zeka ile Ana Dilimde 'Türkçe' Konuşuyorum Güvende Miyim" başlıklı sunumunun interaktif versiyonuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[**🌐 İnteraktif Sunum Modülünü Başlat**](../../app/eyzistanbul/index.qmd)
+
+Eğitimde Yapay Zeka Zirvesi - Yıldız Teknik Üniversitesi (4 Nisan 2026)

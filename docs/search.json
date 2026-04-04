@@ -105,6 +105,13 @@
     "text": "References\n\nResearchers Uncover ‘LLMjacking’ Scheme Targeting Cloud-Hosted AI Models - The Hacker News - https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html\nChatGPT Data Leaks and Security Incidents (2023–2025): A Comprehensive Overview - Wald AI - https://wald.ai/blog/chatgpt-data-leaks-and-security-incidents-20232024-a-comprehensive-overview\n8 Real World Incidents Related to AI - Prompt Security - https://www.prompt.security/blog/8-real-world-incidents-related-to-ai\nSecure Your LLM Apps with OWASP’s 2025 Top 10 for LLMs - Citadel AI - https://citadel-ai.com/blog/2024/11/25/owasp-llm-2025/\nPractical Use of MITRE ATLAS Framework for CISO Teams - RiskInsight - https://www.riskinsight-wavestone.com/en/2024/11/practical-use-of-mitre-atlas-framework-for-ciso-teams/\nMITRE and Microsoft Collaborate to Address Generative AI Security Risks - MITRE - https://www.mitre.org/news-insights/news-release/mitre-and-microsoft-collaborate-address-generative-ai-security-risks\nMITRE ATLAS Framework - https://atlas.mitre.org/matrices/ATLAS\n\n\nThis post is public so feel free to share it.\nShare"
   },
   {
+    "objectID": "app/eyzistanbul/index.html",
+    "href": "app/eyzistanbul/index.html",
+    "title": "EYZ İstanbul",
+    "section": "",
+    "text": "safenlp.org | AI Safety İstanbul"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About SafeNLP",
@@ -221,7 +228,7 @@
     "href": "events/2026-04-eyz-istanbul/index.html",
     "title": "EYZ İstanbul",
     "section": "",
-    "text": "4 April 2026\nTBA"
+    "text": "4 April 2026\n\nWorkshop Content\nMehmet Ali Özer’in “Yapay Zeka ile Ana Dilimde ‘Türkçe’ Konuşuyorum Güvende Miyim” başlıklı sunumunun interaktif versiyonuna aşağıdaki bağlantıdan ulaşabilirsiniz:\n🌐 İnteraktif Sunum Modülünü Başlat\nEğitimde Yapay Zeka Zirvesi - Yıldız Teknik Üniversitesi (4 Nisan 2026)"
   },
   {
     "objectID": "events/2026-istinye-summit/index.html",
