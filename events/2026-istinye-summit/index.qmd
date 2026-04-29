@@ -1,7 +1,7 @@
 ---
-date: '2026-02-01'
-title: "İstinye University Solution Summit"
-description: "TBA"
+date: '2026-02-21'
+title: "Yapay Zeka Beklenmedik Şeyler Söylemeye Başladığında: Bir 'LLM Alignment' Deneyimi"
+description: "İstinye University Solution Summit"
 ---
 
 TBA

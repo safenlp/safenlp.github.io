@@ -1,0 +1,15 @@
+---
+date: '2026-04-29'
+title: "Agentic AI Development - Evaluation and Monitoring with Langchain Ecosystem"
+description: "Marmara Üniversitesi"
+---
+
+29 April 2026
+
+### Workshop Content
+
+Mehmet Ali Özer'in <q>Agentic AI Development: Evaluation and Monitoring with Langchain Ecosystem</q> başlıklı sunumunun interaktif versiyonuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[**🌐 İnteraktif Sunum Modülünü Başlat**](../../app/marmarauni_agenticai/index.qmd)
+
+Marmara Üniversitesi, İstanbul (29 Nisan 2026)

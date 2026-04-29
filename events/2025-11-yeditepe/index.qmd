@@ -1,6 +1,7 @@
 ---
 date: '2025-11-01'
-title: "Yeditepe University"
+title: "How Safe Are Our Models?"
+description: "Yeditepe University"
 ---
 
 TBA

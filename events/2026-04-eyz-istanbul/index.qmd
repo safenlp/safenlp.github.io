@@ -1,14 +1,14 @@
 ---
 date: '2026-04-04'
-title: "EYZ İstanbul"
-description: "Workshop at EYZ İstanbul"
+title: "EYZ İstanbul - Workshop at EYZ İstanbul"
+description: "Yıldız Teknik Üniversitesi"
 ---
 
 4 April 2026
 
 ### Workshop Content
 
-Mehmet Ali Özer'in "Yapay Zeka ile Ana Dilimde 'Türkçe' Konuşuyorum Güvende Miyim" başlıklı sunumunun interaktif versiyonuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+Mehmet Ali Özer'in <q>Yapay Zeka ile Ana Dilimde <q>Türkçe</q> Konuşuyorum Güvende Miyim</q> başlıklı sunumunun interaktif versiyonuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
 [**🌐 İnteraktif Sunum Modülünü Başlat**](../../app/eyzistanbul/index.qmd)
 
