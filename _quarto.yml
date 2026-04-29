@@ -41,6 +41,9 @@ website:
         target: _blank
       - href: about.qmd
         text: About
+      - text: ASIST
+        href: https://aisafetyistanbul.org
+        target: _blank
       - href: contact.qmd
         text: Contact
 
